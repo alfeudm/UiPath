@@ -1,0 +1,17 @@
+﻿{
+  "Id": "x1iItcfBfEqI_siyHDIqTg",
+  "Reference": "_R8sstqcPECfYo0dDciW9A/x1iItcfBfEqI_siyHDIqTg",
+  "ParentRef": "_R8sstqcPECfYo0dDciW9A/x3A-dtBneEy7LDVw21j4lg",
+  "Name": "Pesquisar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-13T17:46:08.1276526Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-13T17:46:08.1276526Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

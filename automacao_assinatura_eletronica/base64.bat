@@ -1,0 +1,1 @@
+python upload_fluid.py "C:\Temp\637876\637876_ASSINADO_1_.pdf"

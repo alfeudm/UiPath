@@ -1,0 +1,14 @@
+﻿{
+  "Id": "YI1_YPAY5kiQ9J0Bs1Mugg",
+  "Reference": "_R8sstqcPECfYo0dDciW9A/YI1_YPAY5kiQ9J0Bs1Mugg",
+  "ParentRef": "_R8sstqcPECfYo0dDciW9A/x3A-dtBneEy7LDVw21j4lg",
+  "Name": "Senha",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-13T17:46:08.2166518Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-13T17:46:08.2166518Z"
+}

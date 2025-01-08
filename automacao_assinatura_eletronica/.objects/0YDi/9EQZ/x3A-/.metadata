@@ -1,0 +1,12 @@
+﻿{
+  "Id": "x3A-dtBneEy7LDVw21j4lg",
+  "Reference": "_R8sstqcPECfYo0dDciW9A/x3A-dtBneEy7LDVw21j4lg",
+  "ParentRef": "_R8sstqcPECfYo0dDciW9A/9EQZ9nQRsE26sWrKoQsaSg",
+  "Name": "Fluid",
+  "Type": "Screen",
+  "Created": "2023-02-13T17:46:07.6616473Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-13T17:46:07.6616473Z"
+}
