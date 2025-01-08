@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UfOjbsj8lk-MvI0zGgEVzg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/UfOjbsj8lk-MvI0zGgEVzg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/5qNQIUJShk-zz-_qPCtPAg",
+  "Name": "btn sair",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-17T15:40:40.7963455Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T15:41:25.6206232Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

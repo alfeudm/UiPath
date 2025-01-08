@@ -1,0 +1,14 @@
+﻿{
+  "Id": "UpRVy-1710me0Y1lxzwVNw",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/UpRVy-1710me0Y1lxzwVNw",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "'Adicionar arquivo(s)' LOTE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-31T22:22:19.4480669Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T22:22:19.4480669Z"
+}

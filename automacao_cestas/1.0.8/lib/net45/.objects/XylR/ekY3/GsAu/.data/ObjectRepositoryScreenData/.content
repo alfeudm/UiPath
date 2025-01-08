@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Aq7nr8eNY0SSvJijSo9HkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" FilePath="C:\ProgramData\App-V\A029E8B3-FAD8-43AF-8E8F-ADD917100CFB\DD27AD0C-9621-4808-AEAD-8B1FC3A28A24\Root\acclient.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFdSURBVFhH1ZUNsoMgDIQ9ukfzZi0xxGx+QMHqm/ftOFZCki2iLnfYtu2zrEs51s/++yWokT2K3jfg5AzwypAegA04E8EAxifRIhYexwZFYqCeQ5xio9giltAAVoBjLr5rgLyIEuLBQKZL0OY5LxLmmKWH8UMDcAHZxZkY06hrYJB2oSrTrBo1YyCijE0RmhhhPLsW3WEtr9hyygsXwcYj4rxKXYU0dg3cmP0iR8w0xUM0yXkRv2o4H/Ug7aaoFFrq3uNX/h3tC3fvPWygV4fU4Jp70kP8EwNtOB9rDNI3oGRjBOdnNS4SkyO2ic/xca8Tyi7vTozF5drmxXmoDpKYoUXxEfNjSpwrmkAboZjYiKDrLIc0wn5LsiYkJsYUza06eYlZzDceihxiOAYG6ldUOHKHmlc4uRYwUjier85t/twAoSakiSU1MLPcbai4NCJZbAz1EsHAb//9oyzLF3KaBueyVZDvAAAAAElFTkSuQmCC" Selector="&lt;wnd app='acclient.exe' cls='ThunderRT6FormDC' title='Application Control Client' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="c54c7763d8f48db0b30f607159edbe86.png" xmlns="">0U7YZMcSnLEO4lu3s9FvHhQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

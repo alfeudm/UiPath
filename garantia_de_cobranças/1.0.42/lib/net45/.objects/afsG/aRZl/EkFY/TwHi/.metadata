@@ -1,0 +1,16 @@
+﻿{
+  "Name": "DISP. SAIDA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "TwHiFRYsZ0mwiHVfwHy2jg",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/TwHiFRYsZ0mwiHVfwHy2jg",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:57:33.3530391Z",
+  "Updated": "2024-04-20T14:59:29.0890527Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

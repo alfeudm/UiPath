@@ -1,0 +1,1 @@
+python.exe tratar_bases.py

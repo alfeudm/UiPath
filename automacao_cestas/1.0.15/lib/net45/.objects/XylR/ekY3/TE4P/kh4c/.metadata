@@ -1,0 +1,16 @@
+﻿{
+  "Id": "kh4c30JrVku2rD7ontzPbA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/kh4c30JrVku2rD7ontzPbA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Highlight GerenciamentoChequeEspecial",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-20T18:10:52.2764342Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T18:12:05.6777278Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

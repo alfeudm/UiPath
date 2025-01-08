@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5kv5dZNfwE6dYNcQkRnNeA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/5kv5dZNfwE6dYNcQkRnNeA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/xPNZHf47_EWszEYBtT3j4A",
+  "Name": "Check App State 'User'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-16T19:32:50.0963687Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T19:32:50.0963687Z"
+}

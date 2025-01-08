@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QppP01G58UymhN2sUXlKXg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/QppP01G58UymhN2sUXlKXg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "Quantidade Assinatura",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-05-10T22:10:19.646552Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:19.646552Z"
+}

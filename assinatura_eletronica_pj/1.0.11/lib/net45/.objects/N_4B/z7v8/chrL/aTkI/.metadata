@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aTkIJxk9nUOt_sk3dDjYVg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/aTkIJxk9nUOt_sk3dDjYVg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "checkbox contato",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2023-05-17T16:19:08.9522384Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T17:44:25.7144845Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

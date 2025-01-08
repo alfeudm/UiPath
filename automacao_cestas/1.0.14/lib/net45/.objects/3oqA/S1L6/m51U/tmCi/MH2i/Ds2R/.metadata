@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Ds2REM3w8UCMpTjqF1Rolw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/Ds2REM3w8UCMpTjqF1Rolw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/MH2i_z7v40qjlPschkLZxQ",
+  "Name": "INPUT btnSubmit",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-14T17:08:33.5557379Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:08:33.5557379Z"
+}

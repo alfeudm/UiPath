@@ -1,0 +1,13 @@
+﻿{
+  "Id": "f6si0Hj_ukmh3ItRbW2F8g",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/f6si0Hj_ukmh3ItRbW2F8g",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "Assinatura interna",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-10T22:10:17.244505Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:17.244505Z"
+}

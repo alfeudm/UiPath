@@ -1,0 +1,1 @@
+python baixar_relatorio.py 1102 "C:\Users\alfeu_souza\Downloads\Isencao cesta de relacionamento.xls" 2024-07-05 2024-10-03 RPA_0109_estornos La976sh3aA

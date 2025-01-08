@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GcUrRembrUa2V6gEntF05w",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/GcUrRembrUa2V6gEntF05w",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/PAzS9xHjMUicE4dRyKmevA",
+  "Name": "Seguros Vigentes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-07-14T17:03:03.0592156Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:03:03.0592156Z"
+}

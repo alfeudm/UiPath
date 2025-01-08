@@ -1,0 +1,16 @@
+﻿{
+  "Name": "<esc> RETORNA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "-3Yrc1Ay2kujGPQ6b3liwQ",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/-3Yrc1Ay2kujGPQ6b3liwQ",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T19:42:40.767722Z",
+  "Updated": "2024-04-20T19:43:59.6703339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

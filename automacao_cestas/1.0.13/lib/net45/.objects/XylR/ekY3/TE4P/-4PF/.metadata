@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-4PFYqABnUCO_80xtQIaYA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/-4PFYqABnUCO_80xtQIaYA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Processando Relatório",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-21T19:21:56.1299081Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-21T19:22:27.8811603Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

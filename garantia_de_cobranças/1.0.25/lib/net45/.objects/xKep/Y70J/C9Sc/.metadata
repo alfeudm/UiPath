@@ -1,0 +1,13 @@
+﻿{
+  "Id": "C9ScFeXqjEKtM6LGcgBnGA",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/C9ScFeXqjEKtM6LGcgBnGA",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/Y70JyCCte0CnrRfjHkwbfA",
+  "Name": "Automação Controle de Garantia de Cobrança | Microsoft Teams",
+  "Type": "Screen",
+  "Created": "2022-12-16T01:25:00.7328106Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-16T01:25:00.7328106Z"
+}

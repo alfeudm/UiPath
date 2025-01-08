@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "name": {
+          "defaultValue": "user_AD",
+          "isExpression": false
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      }
+    }
+  ]
+}

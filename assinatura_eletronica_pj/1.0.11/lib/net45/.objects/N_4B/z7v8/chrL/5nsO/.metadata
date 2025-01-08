@@ -1,0 +1,13 @@
+﻿{
+  "Id": "5nsO941XAEmva9DzvPnuZQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/5nsO941XAEmva9DzvPnuZQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "Tipo Assinatura",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-17T16:30:53.0621149Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T16:30:53.0621149Z"
+}

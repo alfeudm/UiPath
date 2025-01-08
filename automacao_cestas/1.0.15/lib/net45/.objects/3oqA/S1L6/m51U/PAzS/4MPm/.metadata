@@ -1,0 +1,13 @@
+﻿{
+  "Id": "4MPmXRZ7KUG1PAds9cSnXQ",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/4MPmXRZ7KUG1PAds9cSnXQ",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/PAzS9xHjMUicE4dRyKmevA",
+  "Name": "Gerenciais",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-07-14T17:03:02.7992175Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:03:02.7992175Z"
+}

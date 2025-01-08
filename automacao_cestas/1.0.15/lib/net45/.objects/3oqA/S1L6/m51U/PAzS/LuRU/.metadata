@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LuRUB_FKKkyd8UNFUYvh6w",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/LuRUB_FKKkyd8UNFUYvh6w",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/PAzS9xHjMUicE4dRyKmevA",
+  "Name": "GerarRelatório",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-14T17:18:16.9490853Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:18:53.6753548Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

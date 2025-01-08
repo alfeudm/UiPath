@@ -1,0 +1,13 @@
+﻿{
+  "Id": "zPlvv3GI0UuDhbE3hVI3CA",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/zPlvv3GI0UuDhbE3hVI3CA",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "assinar com click participante",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-17T17:44:32.7230077Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T17:44:32.7230077Z"
+}

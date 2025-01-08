@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5XcMqgT_BUKfs7NbXZy4Ag",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/5XcMqgT_BUKfs7NbXZy4Ag",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/C9ScFeXqjEKtM6LGcgBnGA",
+  "Name": "OneDrive Carregar",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-12-16T01:25:23.8265195Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-16T01:25:23.8265195Z"
+}

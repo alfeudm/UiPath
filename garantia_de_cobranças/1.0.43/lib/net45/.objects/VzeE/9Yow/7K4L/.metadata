@@ -1,0 +1,15 @@
+﻿{
+  "Id": "7K4LuoACtUCU2krpauQBxw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/9YowsRSEg06yMKguMBvgJg",
+  "Name": "CMD_SIAT",
+  "Type": "Screen",
+  "Created": "2022-10-11T13:58:00.8890535Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:00.8890535Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

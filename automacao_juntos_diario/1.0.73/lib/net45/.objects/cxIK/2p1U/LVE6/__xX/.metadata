@@ -1,0 +1,14 @@
+﻿{
+  "Id": "__xXN9PhZUK62bAf3eQKrg",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/__xXN9PhZUK62bAf3eQKrg",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/LVE6XlLPEUKaVUcgQoO2hg",
+  "Name": "Existe Ener",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-12T19:21:16.6806571Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-12T19:21:16.6806571Z"
+}

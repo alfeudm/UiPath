@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ICx3vYKH_0mBSTd8-0k3Yw",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/ICx3vYKH_0mBSTd8-0k3Yw",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "Set Text 'INPUT phone' socio 1",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-21T21:50:12.8070715Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-21T21:50:12.8070715Z"
+}

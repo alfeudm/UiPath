@@ -1,0 +1,13 @@
+﻿{
+  "Id": "8C4H-6s4FEiWsnxJYZ4mow",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/8C4H-6s4FEiWsnxJYZ4mow",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/yFDfUZkjlEyEoIUoQcE2ag",
+  "Name": "ListView20WndClass",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-10-11T13:58:00.7820496Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:00.7820496Z"
+}

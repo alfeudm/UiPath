@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DxcgortI0UyxYhqKkALsEQ",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/DxcgortI0UyxYhqKkALsEQ",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/C9ScFeXqjEKtM6LGcgBnGA",
+  "Name": "Automação Controle <b>",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-02T11:52:57.4804518Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-02T11:54:31.1352621Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

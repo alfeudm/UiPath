@@ -1,0 +1,16 @@
+﻿{
+  "Id": "crazaN61DkK2QXc9lIn4tA",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/crazaN61DkK2QXc9lIn4tA",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "Name": "Arquivo pronto",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-11T13:58:01.0070541Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:01.0070541Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

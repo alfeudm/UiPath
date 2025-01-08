@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6OzrxJcKd0GpbT-JtJRpLg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/6OzrxJcKd0GpbT-JtJRpLg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "input phone partic",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2023-05-17T17:44:38.1515214Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T17:44:38.1515214Z"
+}

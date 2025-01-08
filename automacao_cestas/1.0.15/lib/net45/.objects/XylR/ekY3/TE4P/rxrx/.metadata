@@ -1,0 +1,13 @@
+﻿{
+  "Id": "rxrxdjjyiUOsC3f5Yf3TYA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/rxrxdjjyiUOsC3f5Yf3TYA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Deseja Visualizar(1)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T19:28:33.4648997Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T19:28:33.4648997Z"
+}

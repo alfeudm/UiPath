@@ -1,0 +1,14 @@
+﻿{
+  "Id": "FNZ3idUxKkqKnQzEr1r0aA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/FNZ3idUxKkqKnQzEr1r0aA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "menu FBMC",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-24T15:00:04.4383067Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-24T15:00:04.4383067Z"
+}

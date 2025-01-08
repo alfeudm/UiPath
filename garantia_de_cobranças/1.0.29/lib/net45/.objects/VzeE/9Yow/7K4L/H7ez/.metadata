@@ -1,0 +1,14 @@
+﻿{
+  "Id": "H7ezAp-_mkuLQbsRRbPfBA",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/H7ezAp-_mkuLQbsRRbPfBA",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "Name": "pos login",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-11T13:58:01.8840999Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:01.8840999Z"
+}

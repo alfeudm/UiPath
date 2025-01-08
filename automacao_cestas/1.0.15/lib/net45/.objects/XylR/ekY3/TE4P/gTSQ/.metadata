@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gTSQIgrXfEGiBZ3NXSrdAw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/gTSQIgrXfEGiBZ3NXSrdAw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Highlight ContaCorrente",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-20T17:55:19.7971934Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T18:04:26.0919483Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

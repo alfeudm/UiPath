@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Bem6sVrD70Oy79BIFt7cUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="265, 397, 122, 22" DesignTimeScaleFactor="1" FriendlyName="'teoff-exe-2.1.3.0-win32…'" Guid="8ff0bd71-971b-44a8-b8e2-f8f23d36fab0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHoAAAAWCAYAAAAPb4jFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIpSURBVGhD7ZbLkYMwDEBTQFxCOsiZndk0kAZy4pQ+qGMvVEIjHDKztXgjG4EkhM0n2dnFPrwD2AhJzwo5fH5928z+yaIT4XA8Hm1m/2TRiZBFJ0IWnQibRZ+qxt7blnGrCnXvb2NMYS8Nz+3eVPZkjLp/inP9d2payyLRxpT22jb2UgyNcqLrku17JaasV8kBUDRK6sUvzDcp0aao7E2Z1phobaquJZfmZJJ1+Q5o9L2t7XmhbCkacPmKg+Pjd5A17dfKQeod18fzhBjwfhoL88FnryUMED7PBwlg+a3oAzBLNIqQgoCY6Ni6jz0uTuIbFd9HkaL9LxIX75pI8pPXeI8+g8w5SL3g7p4fGF/HcEiGumS/4Jr23eW34hcuKjrW4L4QAk3Mr0+fwqkmaoQOnMZ42viz2qfIi+D5TopW9sqYrn4ihq4PE02ej3yqYutTBEVrJ07iCglMLMAOA9mrFRoCPx9zC8X4KElOax9vBK93UrTSdFlTqD9zRKs5vlo0EpqkOaKR/uB0+6WIEP6wTB84DRkfm4Z1aBOtsXmiV4rW+vOWiaZgk2TBS0QDcr8XGP6D4SYxskdDa5SLRRolp1zD5ag0d078baLh0MiDyeOz+4EezRYNaBPgRcFLBrBwLIStKw2TMV5xggF1IkZTreQoxIz2kPWhyR0i1y2i++s+/rP35TP/d4vO/F+y6ETIohPhcPh42EwCqDcz+0O9mdkf6s3MznjYHwWq6u9rwb8+AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='teoff-exe-2.1.3.0-win32-gcc-hb3.2.x-rgt.exe' cls='ConsoleWindowClass' title='C:\ProgramData\ac\teoff-exe\2.1.3.0\win32-gcc-hb3.2.x-rgt\teoff-*' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f6ac29a580e8fc83acf863da3172fddf.png" xmlns="">00q5d_QRmVEOvnLI1jTnLdA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

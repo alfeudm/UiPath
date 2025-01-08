@@ -1,0 +1,17 @@
+﻿{
+  "Name": "digite nome arquivo",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "XH1IDeLjJ0ac0gXCRGfieg",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/XH1IDeLjJ0ac0gXCRGfieg",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:27:33.534923Z",
+  "Updated": "2024-04-20T14:27:33.534923Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

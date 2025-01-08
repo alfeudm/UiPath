@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AojI9u0G6kaxv5Y-o0ABIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="147, 306, 152, 17" DesignTimeScaleFactor="1" FriendlyName="'cmd.exe C:\WINDOWS\syst…'" Guid="73503dbb-9f7c-4aa0-8358-1dab3b967d5b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAJgAAAARCAYAAAAhfWUxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF2SURBVGhD7ZZrigJBDITnAHMfYW/jpfZo/hD2LCPNEiiLSrrjTPsiPz7seqRHNIjLz+/fVhSzqAUrplILVkxlWdd1K4pZDC3Y+XK5Q3X2MHL3rGcX/8z6fLsLxg8++o3gfdHdUVbsZ9bnGy6YeujRb+To+4r3Ir1gjHVUlzPOscO+gbPcY587mCOWqw5mI8ycZz/bwbPS6EWZp9FTWWPXgnH+qEYsY7wcfTuztjN7TJQpuJ+dZ9Q8enZmrbojGlEZe1ndeOmCeZ7C65lvWXRmDzViWQ/uZ+cbNoN4OWo+P6IRlbGX1Y1d/8E4z2rPU3i9aB4zfFVnpXs8Y155XpbViMrYy+pGuGCN6JIoG9Gep/B60Txm+KrOSvd4xrzyvCyrES8zX+XsqU53wRo2qC4YyXqafYQ7hsq82cgzbR7nPXA+M2fwrDqjx3CHe+xzB3PEcjWjMq8ztGDFZ+B9ya+kFuxLwF+Rd1qyZTldt6KYhjSL4hCu2w2pVUvfemOoawAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='cmd.exe' cls='ConsoleWindowClass' title='C:\WINDOWS\system32\cmd.exe' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="581ddee9fdf4629f92d1a3f45a3e4d11.png" xmlns="">0JZ7bXq3Dd0KBEVfBbJDvjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

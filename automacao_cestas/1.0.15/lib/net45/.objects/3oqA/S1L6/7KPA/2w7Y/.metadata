@@ -1,0 +1,13 @@
+﻿{
+  "Id": "2w7Ye0RsoUqPLu8jkUJj6g",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/2w7Ye0RsoUqPLu8jkUJj6g",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/7KPA2Os-pkqAS1dtN5jECw",
+  "Name": "Acessar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-13T17:04:03.4667355Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-13T17:04:03.4667355Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Id3je2vwxke0BzalakkHtg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/Id3je2vwxke0BzalakkHtg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "confirma redirecionamento",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-24T18:27:40.2044541Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-24T18:27:40.2044541Z"
+}

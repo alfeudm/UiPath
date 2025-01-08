@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6j6MytTKDkuIZ9SIWRw4Iw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/6j6MytTKDkuIZ9SIWRw4Iw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Arquivo já existe",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-20T21:46:22.6692963Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T21:47:04.3637501Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

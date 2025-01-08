@@ -1,0 +1,17 @@
+﻿{
+  "Id": "T_aLl2GxDUqcwj2x9T_WDA",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/T_aLl2GxDUqcwj2x9T_WDA",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/Dav3OyCxK06G7jlG_hTqFw",
+  "Name": "CANCELAR CONSULTA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-12T22:14:45.5714217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-12T22:17:40.8014167Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

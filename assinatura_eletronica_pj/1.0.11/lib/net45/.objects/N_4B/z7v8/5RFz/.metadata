@@ -1,0 +1,12 @@
+﻿{
+  "Id": "5RFzlk_3jEytXdS5yKZ0qQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/5RFzlk_3jEytXdS5yKZ0qQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/z7v85GXJcE2aw0GVzaqWKw",
+  "Name": "Edge: Novo Documento | Portal de Assinaturas ",
+  "Type": "Screen",
+  "Created": "2023-05-10T22:10:14.7754626Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:14.7754626Z"
+}

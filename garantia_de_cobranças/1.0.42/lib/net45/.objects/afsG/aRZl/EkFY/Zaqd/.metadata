@@ -1,0 +1,17 @@
+﻿{
+  "Name": "enter continua",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "ZaqdxQI9IE-SeVIBscN4lw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/ZaqdxQI9IE-SeVIBscN4lw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:27:33.6539296Z",
+  "Updated": "2024-04-20T14:27:33.6539296Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

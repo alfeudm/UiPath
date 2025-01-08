@@ -1,0 +1,16 @@
+﻿{
+  "Id": "plPPnd3FxUmXBbzhAkiM_g",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/plPPnd3FxUmXBbzhAkiM_g",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Disp Saida",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-21T19:17:34.6997583Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-21T19:18:27.0815759Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

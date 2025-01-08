@@ -1,0 +1,12 @@
+﻿{
+  "Id": "GQUGBW8810qiSbmqhU-yVA",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/GQUGBW8810qiSbmqhU-yVA",
+  "Name": "*Sem título - Bloco de Notas",
+  "Type": "App",
+  "Created": "2022-12-06T22:28:00.473235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T22:28:00.473235Z"
+}

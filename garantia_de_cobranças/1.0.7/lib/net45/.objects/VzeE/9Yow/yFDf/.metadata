@@ -1,0 +1,15 @@
+﻿{
+  "Id": "yFDfUZkjlEyEoIUoQcE2ag",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/yFDfUZkjlEyEoIUoQcE2ag",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/9YowsRSEg06yMKguMBvgJg",
+  "Name": "ACCclient",
+  "Type": "Screen",
+  "Created": "2022-10-11T13:58:00.5320494Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:00.5320494Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

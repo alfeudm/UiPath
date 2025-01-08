@@ -1,0 +1,13 @@
+﻿{
+  "Id": "q4743DIMwUmNccmtBrV6wQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/q4743DIMwUmNccmtBrV6wQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "titulo participante",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-17T18:41:47.4514931Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T18:41:47.4514931Z"
+}

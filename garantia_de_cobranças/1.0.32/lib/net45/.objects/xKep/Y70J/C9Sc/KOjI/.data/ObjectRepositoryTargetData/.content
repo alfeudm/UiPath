@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7xyf78k1M0SldIAtqAzmXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="261, 705, 813, 25" ElementType="InputBox" FriendlyName="'Edit'" FullSelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;" Guid="f99cae0e-7282-4630-9d4a-c50a1004e40b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAzEAAAAdCAYAAACaEOJQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAC1SURBVHhe7ddBDQAwCAAx/JtmPzTsktZFZwEAAEIkBgAASLnEzPgMAADwP4kBAABSJAYAAEiRGAAAIEViAACAFIkBAABSJAYAAEiRGAAAIEViAACAFIkBAABSJAYAAEiRGAAAIEViAACAFIkBAABSJAYAAEiRGAAAIEViAACAFIkBAABSJAYAAEiRGAAAIEViAACAFIkBAABSJAYAAEiRGAAAIEViAACAFHMBAABSJAYAAAjZfSrCjKh3FmaIAAAAAElFTkSuQmCC" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='teams.exe' cls='#32770' title='Abrir' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="196, 704, 53, 25" ElementType="Text" FriendlyName="'&amp;Nome'" FullSelectorArgument="&lt;wnd ctrlid='1090' title='&amp;amp;Nome:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1090' title='&amp;amp;Nome:' check:text='&amp;amp;Nome:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADkAAAAdCAYAAAAQJcSlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFNSURBVFhH7ZTdEcMgCICdynncxmHcxVncgBp/EUlqmj7kOB++uxYTwoeoCiGAdLakFLakFLakFLakFEZJZ0ApBUpb8DjecGDiuraeWXsvvGTEOBRviJE0YMwhasDhtYQgSVdklHHDw8IkA3ir428N1qP1C0mXdh8zT0LOiZpYqc30FjQXx9BnhvvDg9U0diHJv8BJloJJ4iw9NilLHnHUgFK01rUBJI6/NcVKja0ZtyUjJWm/hGbJJEOSZmgBZ9PBN6TFW+45XyLVPL+LuZaM5AJqjEpyO9vp48n/P3uOjU8NL5zFEV8lR5F7kjTfPyTbWSQ8lKwfO0bihTu5wJJkP9A6fQhL3T+TP0qenckFFiUjaFyGnatx9nYdcz2TjKT66G7GaaKXE6llXTKSC+fGsyQvTUgwu/tY8qCIYrr0iqRQtqQUtqQUtqQMAnwAg6HKKBA/19UAAAAASUVORK5CYII=" SearchSteps="Selector, FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomRight" X="-272" Y="-7" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="c10a1661ec52c08fbe8227b134f38358.png" xmlns="">0_QcYAWb-fU-yMmGK3cdIfQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

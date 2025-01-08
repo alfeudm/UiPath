@@ -1,0 +1,14 @@
+﻿{
+  "Id": "DCwy1LHTe0uJoppeimC5ow",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/DCwy1LHTe0uJoppeimC5ow",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "past a selec",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-21T20:16:07.7331345Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-21T20:16:07.7331345Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "WUdyvkh63Eys_jK15PNgjQ",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/WUdyvkh63Eys_jK15PNgjQ",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/_4FaSS_ZwEyCFE1L78Sh1Q",
+  "Name": "STATUSCONTADT_ULT_ATU_C…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-06T22:28:03.968275Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T22:28:03.968275Z"
+}

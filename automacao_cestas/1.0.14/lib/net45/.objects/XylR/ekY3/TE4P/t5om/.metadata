@@ -1,0 +1,16 @@
+﻿{
+  "Id": "t5om_4tmQki0dc7H6fZLSg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/t5om_4tmQki0dc7H6fZLSg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Processando Contas",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-23T13:50:03.8691776Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-23T13:51:09.0948207Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

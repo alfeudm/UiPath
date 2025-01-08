@@ -1,0 +1,13 @@
+﻿{
+  "Id": "8tKnC02NfUyxGxTL_R2nMw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/8tKnC02NfUyxGxTL_R2nMw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "capa(1)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T19:27:52.4395048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T19:27:52.4395048Z"
+}

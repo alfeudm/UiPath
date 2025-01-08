@@ -1,0 +1,15 @@
+﻿{
+  "Id": "3oqAg7VtKE6F0mKr1KS36w",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/3oqAg7VtKE6F0mKr1KS36w",
+  "Name": "Edge Data Catalog",
+  "Type": "App",
+  "Created": "2022-07-11T21:53:36.998767Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-13T17:01:46.7376183Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

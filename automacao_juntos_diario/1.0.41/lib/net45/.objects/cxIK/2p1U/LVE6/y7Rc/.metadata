@@ -1,0 +1,14 @@
+﻿{
+  "Id": "y7RcoumC-UezPjT5hE9j7A",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/y7RcoumC-UezPjT5hE9j7A",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/LVE6XlLPEUKaVUcgQoO2hg",
+  "Name": "Check App State 'cmd.exe CWINDOWSsyst…'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-12T19:20:38.1946015Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-12T19:20:38.1946015Z"
+}

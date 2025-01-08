@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Assinatura_Eletronica_PJ</id>
+    <version>1.0.10</version>
+    <title>Assinatura_Eletronica_PJ</title>
+    <authors>alfeu_souza</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>N/A</description>
+    <tags>VisualBasic VB UiPathStudioProcess UiPathObjects</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="CertisignSicredi" version="[1.0.10]" />
+        <dependency id="Comandos_Fluid_API" version="[1.0.8]" />
+        <dependency id="kino.UiPath.Utils.Activities" version="[0.1.86]" />
+        <dependency id="Newtonsoft.Json" version="[13.0.1]" />
+        <dependency id="UiPath.Database.Activities" version="[1.7.1]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.20.1]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.19.0]" />
+        <dependency id="UiPath.System.Activities" version="[23.4.2]" />
+        <dependency id="UiPath.Testing.Activities" version="[23.4.0]" />
+        <dependency id="UiPath.UIAutomation.Activities" version="[23.4.5]" />
+        <dependency id="UiPath.WebAPI.Activities" version="[1.13.3]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

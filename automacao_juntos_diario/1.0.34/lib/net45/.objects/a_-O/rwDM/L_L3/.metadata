@@ -1,0 +1,12 @@
+﻿{
+  "Id": "L_L3CL-q-kyaxGhqxjkoKg",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/L_L3CL-q-kyaxGhqxjkoKg",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/rwDMP31XIEWMbdr31h5TfQ",
+  "Name": "OpenData",
+  "Type": "Screen",
+  "Created": "2022-11-18T16:00:59.8086887Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-18T16:00:59.8086887Z"
+}

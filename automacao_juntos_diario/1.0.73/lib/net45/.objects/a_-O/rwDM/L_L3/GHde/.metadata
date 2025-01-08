@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GHde2iBLWUa-L1sfazQacg",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/GHde2iBLWUa-L1sfazQacg",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/L_L3CL-q-kyaxGhqxjkoKg",
+  "Name": "Conjuntos de dados",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-11-18T16:01:00.0997076Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-18T16:01:00.0997076Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CProgramDataacteoff-exe*.0win32-gcc-hb3.2.x-r",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Id": "qq9lyY8IUE-ZQMwoRsC4tw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/qq9lyY8IUE-ZQMwoRsC4tw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/Y70JyCCte0CnrRfjHkwbfA",
+  "Created": "2024-05-08T13:33:37.3536269Z",
+  "Updated": "2024-05-08T13:33:37.3536269Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="aPUPX67GxkuVSv43QBgfrA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAD4SURBVDhPrZJdEYMwEISDBN77wkwNIAEJSEACElCAhEqoBCQgoQo6lZDuZm4zV5q0Lzx8M+Fus7kfQoyxKfG8XDcQja2kIecYQNCBySd4yS5/GVALOp5lIPEOBov1PBu9xXh+AGpvycCCeiknSiDnqyKDDF4umEorgRyrko6VDGqhBStYJA4hbCAaeQbS8U7SKXGkZnAkG8CRm0jDSol6BWw5t8kZsHyWxL72nAhhAouRVwwNe+fMUrs0mIEGQz7+Bw9yekjMqsBv4dca707HSlptgX9WWosTc9rcO1ldfATUjvyubsEu6rX/WzhyhgHb4tBIZbCxeQP19V1zP5ZptQAAAABJRU5ErkJggg==" Selector="&lt;html app='msedge.exe' title='Denodo Data Catalog' /&gt;" Url="https://virtualizador.sicredi.net/denodo-data-catalog/#/my-query/database/cooperativa/view/0109_base_relacionamento_2/37242">
+      <imageRef attrName="InformativeScreenshot" originalValue="61b3c57948304183fd3b9ed6852257ca.png" xmlns="">0GLrOwsYhLUKGVCIFavGNxw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

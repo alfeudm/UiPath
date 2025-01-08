@@ -1,0 +1,12 @@
+﻿{
+  "Id": "i0QZOgJLykiy4ZxyEGSI8g",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/i0QZOgJLykiy4ZxyEGSI8g",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/z7v85GXJcE2aw0GVzaqWKw",
+  "Name": "Edge: Minha Página | Portal de Assinaturas Si",
+  "Type": "Screen",
+  "Created": "2023-05-10T22:10:13.9804477Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:13.9804477Z"
+}

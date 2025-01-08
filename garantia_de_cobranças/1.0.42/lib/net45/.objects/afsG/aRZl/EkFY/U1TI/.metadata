@@ -1,0 +1,16 @@
+﻿{
+  "Name": "INFORME O CODIGO DA CONTA CORRENTE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "U1TIaGgCnUayVe-6BY6iHQ",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/U1TIaGgCnUayVe-6BY6iHQ",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T19:29:08.9733773Z",
+  "Updated": "2024-04-20T19:32:05.9750638Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

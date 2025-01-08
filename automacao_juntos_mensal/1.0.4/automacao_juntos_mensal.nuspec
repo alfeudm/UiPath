@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Automacao_Juntos_Mensal</id>
+    <version>1.0.4</version>
+    <title>Automacao_Juntos_Mensal</title>
+    <authors>alfeu_souza</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>N/A</description>
+    <tags>VisualBasic VB UiPathStudioProcess UiPathObjects</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="UiPath.Database.Activities" version="[1.7.1]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.16.1]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.18.2]" />
+        <dependency id="UiPath.System.Activities" version="[22.10.4]" />
+        <dependency id="UiPath.UIAutomation.Activities" version="[22.10.4]" />
+        <dependency id="Wintegra.JDBC" version="[1.1.0]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

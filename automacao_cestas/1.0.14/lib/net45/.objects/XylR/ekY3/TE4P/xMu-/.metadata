@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xMu-dnW-UEaZrrx8jJWL_A",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/xMu-dnW-UEaZrrx8jJWL_A",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "relatório de alteracoes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-24T18:06:31.2386316Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-24T18:06:31.2386316Z"
+}

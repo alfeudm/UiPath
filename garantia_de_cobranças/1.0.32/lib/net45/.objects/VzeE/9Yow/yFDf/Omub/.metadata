@@ -1,0 +1,14 @@
+﻿{
+  "Id": "OmubbYwJu0Sf58DGD0YHMQ",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/OmubbYwJu0Sf58DGD0YHMQ",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/yFDfUZkjlEyEoIUoQcE2ag",
+  "Name": "Executar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-10-11T13:58:00.6810566Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:00.6810566Z"
+}

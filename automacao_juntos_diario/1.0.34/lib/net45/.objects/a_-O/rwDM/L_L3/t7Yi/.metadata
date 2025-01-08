@@ -1,0 +1,13 @@
+﻿{
+  "Id": "t7Yi8n4zDkStp7R-naqJog",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/t7Yi8n4zDkStp7R-naqJog",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/L_L3CL-q-kyaxGhqxjkoKg",
+  "Name": "Senha",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2022-11-18T16:01:00.3737858Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-18T16:01:00.3737858Z"
+}

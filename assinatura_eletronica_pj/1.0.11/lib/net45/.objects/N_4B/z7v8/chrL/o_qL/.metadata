@@ -1,0 +1,16 @@
+﻿{
+  "Id": "o_qLSHaS40y78mDYbOYyuQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/o_qLSHaS40y78mDYbOYyuQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "Assinar eletronicamente",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-10T22:10:26.09068Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T17:44:25.0614074Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "deseja visualizar o arquivo",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "nS8AxQ5hc0K1ziEia76Qzw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/nS8AxQ5hc0K1ziEia76Qzw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:27:33.4449248Z",
+  "Updated": "2024-04-20T14:27:33.4449248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

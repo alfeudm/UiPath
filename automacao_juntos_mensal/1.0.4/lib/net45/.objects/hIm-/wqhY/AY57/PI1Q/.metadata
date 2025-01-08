@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PI1QcuwZDUygGA9xvvCZGQ",
+  "Reference": "W_EpUVNhJkS8-yYswSiz4A/PI1QcuwZDUygGA9xvvCZGQ",
+  "ParentRef": "W_EpUVNhJkS8-yYswSiz4A/AY57ARoobE-tDJsokgdHWg",
+  "Name": "Confirmar Impressão",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T01:55:39.6936414Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T01:55:39.6936414Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

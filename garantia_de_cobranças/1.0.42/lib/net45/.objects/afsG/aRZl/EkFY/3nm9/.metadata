@@ -1,0 +1,16 @@
+﻿{
+  "Name": "DIGITE O NOME DO ARQUIVO SEM EX",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "3nm9Jv2ThU-nd4g-VSx4Nw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/3nm9Jv2ThU-nd4g-VSx4Nw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T15:11:03.9246764Z",
+  "Updated": "2024-04-20T15:12:05.714838Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

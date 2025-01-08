@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bOGSr7pIuUK_EQYiyDytyQ" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/IY-C7DveOEe4pxJhn4zm7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="tFQlCSajpEqT_miaVNV6hg" DesignTimeRectangle="186, 190, 160, 14" FriendlyName="'cmd.exe C:\WINDOWS\syst…'" Guid="be792eba-155d-4b02-8037-295655978fa4" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAKAAAAAOCAYAAACo2RezAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFoSURBVGhD7ZrNacNAFIRdQM5pJZBC00FaSREGF+FjTgoyPBiP5/3IykpavIcPdn6eVkiL8MGn08d5Ggx24/PrMg0Ge3F3AH+v3y7Ya423t/IGbXj2OeM7qsw/fAF5sHqh/yLbn/WgDWufc3U+PYDmoW6Ftzd6qjM4HtX3VPoCYt6Syk1jR/XNUxnnqHmtNHoqq5DNRzl6WUdlW+RGlhvuAUS446FmDdVnKl2+prfeQ2dk85nOOlFW0UiUGWvnZ7r+ArK2NVOZXaIZyzPU7IzqoIdwjtrWjDcb4XXNR7iDPZUhpd+AW6H2Zi/SnDGcr9VLWTLvddlHzRmT5Yjqsqc6lQw51AGc4f2X6CjbQmdk85nOOlFW0YjK2FOdSobcHUAbqg63wruPyFMd9L2cO+xzB3P0q2TzS3PuRNkzuaFy1NV55uEL+EpkD+eI9HjPES97AO1F9vRCe7znjK7/jPD+83ZDZYMeOE9/G+7+ZPT3jHYAAAAASUVORK5CYII=" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/IY-C7DveOEe4pxJhn4zm7w" ScopeSelectorArgument="&lt;wnd app='cmd.exe' cls='ConsoleWindowClass' title='C:\WINDOWS\system32\cmd.exe' /&gt;" SearchSteps="Image" TargetType="ImageBased" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="87f8887247a52f5adc2245bf47e347bb.png" xmlns="">0uCbcWmJ5v0CmogTuyy-j0w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

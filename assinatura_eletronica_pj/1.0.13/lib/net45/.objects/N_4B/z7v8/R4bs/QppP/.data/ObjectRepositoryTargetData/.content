@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g5mmdtwaZ0OlnEzto_pY9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sicredi.portaldeassinaturas.com.br/Transaction/Document?account=14935391#/" DesignTimeRectangle="144, 445, 698, 34" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'Doc. até'" FullSelectorArgument="&lt;webctrl id='tipoDocumento' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='tipoDocumento' tag='SELECT' type='' class='form-control ng-pristine ng-valid ng-not-empty ng-touched' aaname='' /&gt;" Guid="8e1bf26d-71d6-48e8-8712-6a3efe908b9f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Novo Documento | Portal de Assinaturas Sicredi' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b922814ea0c27faff61596c2c309543.png" xmlns="">0NgA8zTWC5UuLs-irS6HA3A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

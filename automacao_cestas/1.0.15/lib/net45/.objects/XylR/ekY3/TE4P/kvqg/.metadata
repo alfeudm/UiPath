@@ -1,0 +1,14 @@
+﻿{
+  "Id": "kvqgJNLeMEmG1u5ZMSKi3Q",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/kvqgJNLeMEmG1u5ZMSKi3Q",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Highlight relatórios",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-20T17:52:41.1671653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-20T17:52:41.1671653Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ufmiGY8Ajkyb0PoIUOll4w",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/ufmiGY8Ajkyb0PoIUOll4w",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/xPNZHf47_EWszEYBtT3j4A",
+  "Name": "Ok",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-11T22:03:05.4793647Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T22:03:05.4793647Z"
+}

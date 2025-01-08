@@ -1,0 +1,12 @@
+﻿{
+  "Id": "Y04_VW3p9USL9ABXgxtmlg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/Y04_VW3p9USL9ABXgxtmlg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/z7v85GXJcE2aw0GVzaqWKw",
+  "Name": "Abrir",
+  "Type": "Screen",
+  "Created": "2023-05-10T22:10:20.7985694Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:20.7985694Z"
+}

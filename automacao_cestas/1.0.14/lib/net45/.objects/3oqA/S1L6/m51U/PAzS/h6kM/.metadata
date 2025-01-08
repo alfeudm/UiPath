@@ -1,0 +1,13 @@
+﻿{
+  "Id": "h6kMTy-0k0Cl33koX8f58Q",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/h6kMTy-0k0Cl33koX8f58Q",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/PAzS9xHjMUicE4dRyKmevA",
+  "Name": "Cooperativa",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-14T17:03:03.2552124Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:03:03.2552124Z"
+}

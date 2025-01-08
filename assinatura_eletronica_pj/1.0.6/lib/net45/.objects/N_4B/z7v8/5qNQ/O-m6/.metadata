@@ -1,0 +1,13 @@
+﻿{
+  "Id": "O-m6mDxj1EKfuPGkenmUJQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/O-m6mDxj1EKfuPGkenmUJQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/5qNQIUJShk-zz-_qPCtPAg",
+  "Name": "Acessar Minha Conta",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-10T22:10:12.3504182Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:12.3504182Z"
+}

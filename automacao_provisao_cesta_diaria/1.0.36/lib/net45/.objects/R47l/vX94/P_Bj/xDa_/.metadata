@@ -1,0 +1,14 @@
+﻿{
+  "Name": "nome_arquivo",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "xDa_XyUPNkWWnJMfnLikLA",
+  "Reference": "M_Fs_HA7-0WiWSSZhxLr5Q/xDa_XyUPNkWWnJMfnLikLA",
+  "ParentRef": "M_Fs_HA7-0WiWSSZhxLr5Q/P_BjjPqYGEeKEJYMdGLr4w",
+  "Created": "2024-06-18T16:08:47.7986046Z",
+  "Updated": "2024-06-18T16:08:47.7986046Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

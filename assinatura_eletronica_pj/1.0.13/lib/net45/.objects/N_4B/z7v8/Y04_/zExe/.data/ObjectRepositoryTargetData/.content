@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ARU2L8vaBEuISC5YdhsYZg" Reference="IwX62HklR0Wx0NJbrlsbwg/zExeKC3Bkk-7VaFQbXDbSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="706, 652, 132, 39" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'&amp;Abrir'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' check:text='&amp;amp;Abrir' /&gt;" Guid="2c84c9ad-1efd-4cf4-b7cf-dadd1f8456b6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEmSURBVGhD7dXbEYIwEIVheko320xaSQMUkVLogA5Wlgi5CIM6cCYP5+EfR1Z9+ILLMM+zMlwEB0dwcBX4OI7sgUrjD/BpmtiNERwcwcERHBzBwREcXPfgQQYdJDTXg8rg1Mfy2knRq/v2s4D6BjcsJyquBfsBvLO6Bo/eqfNxf80zgj9QVL/d2eud7jXuszd4sHWxrJylfCBpJuKW66KhOpx2tv0ern7BK+QCf31vcAv0Nq/2dJq1B3A8w9cteLtG7H1+eJaIKXu4SjiateD199B1Cp7uRFsVddsaaOHsH0Dw/wuS18Vei1qshnWlnB0GwS+z9XC0Z/NaSXDp4Zfu/nQQFsFZEcHBERwcwcERHBzBwREc3CU4u7/SuAJnz0dwcASHNusLH213Zy3yII0AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Abrir' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="05ef209e199f5428b3cb350034df6b6a.png" xmlns="">0DLgoCdyJSEa2DKcnJrkBtA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

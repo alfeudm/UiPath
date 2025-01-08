@@ -1,0 +1,1 @@
+python.exe atualizar_base_baixa_garantia.py

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "zflLS--rh0Wc1Kxmty_QTw",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/zflLS--rh0Wc1Kxmty_QTw",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "nome participante",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-17T16:30:51.7462667Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T16:30:51.7462667Z"
+}

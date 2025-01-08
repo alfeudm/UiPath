@@ -1,0 +1,16 @@
+﻿{
+  "Id": "S_3ql34VKk-srhEWqck2VQ",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/S_3ql34VKk-srhEWqck2VQ",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/L_L3CL-q-kyaxGhqxjkoKg",
+  "Name": "Baixar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-07T11:45:22.9528473Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-07T11:46:02.1437401Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

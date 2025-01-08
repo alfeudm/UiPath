@@ -1,0 +1,14 @@
+﻿{
+  "Id": "oaPrQlY670WFGAJEwpMNRQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/oaPrQlY670WFGAJEwpMNRQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "socio 1 COD ACESSO",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-21T21:30:01.3568709Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-21T21:30:01.3568709Z"
+}

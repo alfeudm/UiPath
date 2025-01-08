@@ -1,0 +1,12 @@
+﻿{
+  "Id": "cxIKURUnm0SmdUlJZNj_kw",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/cxIKURUnm0SmdUlJZNj_kw",
+  "Name": "C:\\WINDOWS\\system32\\cmd.exe",
+  "Type": "App",
+  "Created": "2022-12-22T20:33:33.9147445Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-22T20:33:33.9147445Z"
+}

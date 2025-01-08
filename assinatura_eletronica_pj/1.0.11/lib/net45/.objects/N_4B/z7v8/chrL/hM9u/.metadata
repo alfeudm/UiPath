@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hM9u9IvUyUqNfZAs5Adfcg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/hM9u9IvUyUqNfZAs5Adfcg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "btn Enviar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-21T21:22:48.9196643Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-21T21:23:24.6067041Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

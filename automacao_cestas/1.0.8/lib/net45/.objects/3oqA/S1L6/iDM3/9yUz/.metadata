@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9yUz8JA86U6UghI7vZqQwg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/9yUz8JA86U6UghI7vZqQwg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/iDM3VV5uAkC03zJoDGFG5w",
+  "Name": "DataFim",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-12T17:22:44.4502479Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-12T17:23:17.4466318Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

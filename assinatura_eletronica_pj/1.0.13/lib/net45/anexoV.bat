@@ -1,0 +1,1 @@
+python anexo_V.py "C:\Users\alfeu_souza\Downloads\Automacao_Assinaturas_PJ" 665097

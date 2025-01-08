@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_W7m-8e0DkS0sjOUqvJYVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sicredi.portaldeassinaturas.com.br/Home/MinhaPagina" DesignTimeRectangle="1044, 92, 21, 14" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Sair'" FullSelectorArgument="&lt;webctrl aaname='Sair' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sair' tag='SPAN' type='' class='' check:innerText='Sair' /&gt;" Guid="92fe2f39-a0da-4c61-be75-1872756f1bdb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAASCAYAAACuLnWgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEoSURBVEhLtZKxagJBEIZ9AN/B3pdI6xukTGl53b2CZRrhmoCFpYWFRUrBJlx1WF2uCLkmLBFxEI+c4ZA/s+qedzoKCZODD2b/3Zt/ZnYbjbCJf0cUtRFFbURRG1HURhS1KYPXIeICwC5HvodA6/7lD2cEWY7oU94rcUF3TUD2hFZ1UwsX3DLpbejYHcPN5tsJvOPe4AuIFza2k5ghWCYgPmfIP+Uog7cJjE3wneCFRgjSzpWufEwLwjQ9rGsmXEK89HEXVc8ztUXUwcPHEM+bBGbHhlmfjdrwKN13cPqumSQYVPM5LgRHOuNUczyeVX67k1+atMyc7yBEr5a0jXsTsvlfTQxXXrjna4dDeF8dLs9b2XFZnTV+1uOt1rg0EUVtRFEbUVSliR8VRsFY2g4KCwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Minha Página | Portal de Assinaturas Sicredi' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce372aec8329a11cfdac83153e8deed3.png" xmlns="">0JdszcWCMeEq6H_5d3uSlCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

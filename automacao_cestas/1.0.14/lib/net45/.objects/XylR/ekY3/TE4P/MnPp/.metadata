@@ -1,0 +1,14 @@
+﻿{
+  "Id": "MnPpTc-W1kuh9DvzdRy5kg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/MnPpTc-W1kuh9DvzdRy5kg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "DESEJA VISUALIZAR ARQUIVO",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-24T15:22:35.6549492Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-24T15:22:35.6549492Z"
+}

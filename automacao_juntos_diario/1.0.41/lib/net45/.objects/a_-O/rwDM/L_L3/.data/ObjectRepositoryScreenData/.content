@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="lc_C7kMEhEudbSywH1-K2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJJSURBVDhPjVJLaBNRFD0zJumYziRpqgsX0pUiKvhZuBHFD7hQEbWtEJJqaEttGhyMKLalbt35ga5aEBGV6kK6cFEXQkHQJFJDWqNtUuonUHDnZxVEfJ65eRRsVTxwmXvPu/e++84d/BEF+ziywc8ohT/hqf0VcWzQJ/+JuXALZpwvKIcUbvoUjuG65o8gb2fEX4E7/hjacEBHwGzEwgInOA+F0ygJVwrHUGTTuXCHxEso2LuRcxTSTD6LWY7cKvx9axNShkIXeQ+LkSQnUBi3FG4H1ghHwkI2lMN8ROFBg0KMyRkpeivnLjrQR27AtDAaGEA//TMoy5kgb/fJ7S/Z+QObDJs1dOIHCxXOGfXEDJ5zuo1IGOMyTTsOCS8o2Hv43gTftY0W1ax3s007SmvQ8Xo2VOjFVYnL0VZMOwnxf0Ma25l8jzaqmTpceHocFn8+Moh3FDMbvCuxII79HO+9COkp7/K1y+FiL3qNKq6YCpOrvW2MgKqvRQ/G+G4llqSljMsU0mLBCV1KHYwtshEvpx3f0Y0qRW8DnjV24gnX8iig8JBdJ6xJKejGYzYo0kxamZvYLPwKTDs23oSmOI6SVVaj9f328KY0FsVP46NMNuwfw0J0p3ATlilfQd4+KKushIYkjmOXaOGNPOILUP2tMvoQ7TUvmnFqvLRZcpeQc1xUmlrETyKBU0y+5VM7vjWnhDvJv+ECG2aDCq+cQeH+ijgu4doqTtSk+O9PaRbcUj9eNF7U0T9ww7+PmlRQDNZY8JP+On2yDMAvVHTFoUs88rkAAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" Url="https://opendata.sicredi.net/user/login?">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6c2fa1ad52f57eeeece87c6d71a5ad8.png" xmlns="">0AR5OninmN0-8PdSYxrW34A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

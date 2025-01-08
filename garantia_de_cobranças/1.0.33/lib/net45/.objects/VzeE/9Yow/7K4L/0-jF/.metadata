@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0-jFkHFXI0KvDyj-4edTXw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/0-jFkHFXI0KvDyj-4edTXw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "Name": "Highlight cheques",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-11T13:58:01.4510991Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:01.4510991Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

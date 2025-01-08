@@ -1,0 +1,15 @@
+﻿{
+  "Id": "7KPA2Os-pkqAS1dtN5jECw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/7KPA2Os-pkqAS1dtN5jECw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/S1L65cwbpE-fKS9iY1WBNg",
+  "Name": "OpenData",
+  "Type": "Screen",
+  "Created": "2022-07-13T17:02:31.0659267Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-13T17:02:36.8333404Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

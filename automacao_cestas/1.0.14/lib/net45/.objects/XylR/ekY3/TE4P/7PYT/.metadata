@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7PYT-zcBc0amOXe_FBSTLw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/7PYT-zcBc0amOXe_FBSTLw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "aguarde",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-23T14:26:40.1754784Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-23T14:27:17.5485368Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

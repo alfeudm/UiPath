@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Informe data inicial",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "eOP08odsl0amn1RFHcGpqw",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/eOP08odsl0amn1RFHcGpqw",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:27:33.7859305Z",
+  "Updated": "2024-04-20T14:27:33.7859305Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

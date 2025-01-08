@@ -1,0 +1,16 @@
+﻿{
+  "Name": "COBRANÇA BOX",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "loJVc8HX3U2YEiTYVUO_PA",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/loJVc8HX3U2YEiTYVUO_PA",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:47:20.8994559Z",
+  "Updated": "2024-04-20T14:51:01.2608942Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

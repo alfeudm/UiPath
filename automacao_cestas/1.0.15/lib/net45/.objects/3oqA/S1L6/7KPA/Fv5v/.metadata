@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Fv5v_4oVrkKepacE3_PeMQ",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/Fv5v_4oVrkKepacE3_PeMQ",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/7KPA2Os-pkqAS1dtN5jECw",
+  "Name": "Senha",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2022-07-13T17:04:03.2392136Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-13T17:04:03.2392136Z"
+}

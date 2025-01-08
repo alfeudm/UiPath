@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Bza8_EhLu0id8_kQzRpXWQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/Bza8_EhLu0id8_kQzRpXWQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "SMS socio 1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-21T21:49:11.9697902Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-21T21:49:11.9697902Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "WqqnrXdIXUaCedDcjzgnyQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/WqqnrXdIXUaCedDcjzgnyQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "Pastas",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-10T22:10:17.6275107Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:17.6275107Z"
+}

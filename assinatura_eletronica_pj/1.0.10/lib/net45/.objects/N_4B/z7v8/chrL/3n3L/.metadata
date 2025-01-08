@@ -1,0 +1,13 @@
+﻿{
+  "Id": "3n3LK3JFr02cu0ZSRqqj-A",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/3n3LK3JFr02cu0ZSRqqj-A",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "E-mail Funcionario",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-10T22:10:24.2376292Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:24.2376292Z"
+}

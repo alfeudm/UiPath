@@ -1,0 +1,13 @@
+﻿{
+  "Id": "LM3HeftwxEqejJ8nP6XtkQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/LM3HeftwxEqejJ8nP6XtkQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "Título personalizado participante",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-17T18:41:46.5373604Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T18:41:46.5373604Z"
+}

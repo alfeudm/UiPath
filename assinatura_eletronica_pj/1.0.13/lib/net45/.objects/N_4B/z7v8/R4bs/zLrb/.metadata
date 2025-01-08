@@ -1,0 +1,13 @@
+﻿{
+  "Id": "zLrb14hOAUSfAhhfH2U-Pg",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/zLrb14hOAUSfAhhfH2U-Pg",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/R4bszdjZyUCOd5xSZOIPQQ",
+  "Name": "Meu Computador 1 doc",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-10T22:10:18.8455318Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:18.8455318Z"
+}

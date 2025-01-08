@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BfQgw34b0kuWLZKSk4P7vw",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/BfQgw34b0kuWLZKSk4P7vw",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "CMD_Login",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-14T14:22:39.4773003Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T14:23:17.7987207Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

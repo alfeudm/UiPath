@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w3TJ_bw8z0aaVbcgkdKamA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1121, 742, 132, 39" ElementType="Button" FriendlyName="'&amp;Abrir'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' check:text='&amp;amp;Abrir' /&gt;" Guid="c0e1b381-ecf5-43bf-9d45-051f63df35df" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAIgAAAArCAYAAACjMsASAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGxSURBVHhe7djdcYQgGEZhe6Ibm7EVG9giLGU7sAOC+LMIH292JrkBz8UzsyuMueAESIZ1XT1QQyCQCATSLZDX6wXoQN7vNx6MQCARCCQCgUQgkAgEEoFAIhBIBAKJQCARCCQCCZbJ+WEY/WyMPd0DApn9OAwygL8HsvjJhZ/hJr+Y4+3qP5B5DAvnvAuRjLMxHhBIXeeB7AvnpsXPY30BOWLq+g5kmcLO4fy0hM/bTnJ+zuYRSF3XgcSFv3aNz25izouBHEdFvLNsyqCunSgG99mV8h2qNi99Vws6DmS/nKZB1HaK/XlYxCyI83l6d4kLv80d5+vZ9TwPxJjXmn4DsY6UeOSUl1UrhJO98GVk385rTbeB5Au2O46Q7Le6trNYY/Z7K4EY81rTaSDn/z5qrKOEQCxdBqIW/DxmvrmbWGMEknxpMxD7GCnGk8XbI7D+BC7fRSDJlyYDqVxEb7IL7B5IWNBsF4mLbD0jkHYDsRa1dNxRjp3hOkaOuD53lfI9BJJ8aXIHwb8iEEgEAolAIBEIJAKBRCCQCAQSgUAiEEi/BgKkTdwCAXIEAolAIKz+B1Qwmumx+CwSAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='teams.exe' cls='#32770' title='Abrir' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="67bb3db1a5d9af0c17c7f179e5169073.png" xmlns="">0fqVNkA4U5kC4hXts9kJU9g</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

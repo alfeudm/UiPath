@@ -1,0 +1,14 @@
+﻿{
+  "Name": "aguarde",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "PHTylhQ8VUKZ6m89DeFV9Q",
+  "Reference": "M_Fs_HA7-0WiWSSZhxLr5Q/PHTylhQ8VUKZ6m89DeFV9Q",
+  "ParentRef": "M_Fs_HA7-0WiWSSZhxLr5Q/P_BjjPqYGEeKEJYMdGLr4w",
+  "Created": "2024-06-18T16:11:25.9838491Z",
+  "Updated": "2024-06-18T16:11:25.9838491Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

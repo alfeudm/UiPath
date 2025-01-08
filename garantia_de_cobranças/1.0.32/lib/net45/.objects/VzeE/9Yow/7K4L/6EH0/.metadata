@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6EH0bcsvJEiPYDN9dLy3sQ",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/6EH0bcsvJEiPYDN9dLy3sQ",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "Name": "Highlight Data",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-11T13:58:01.625262Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:01.625262Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

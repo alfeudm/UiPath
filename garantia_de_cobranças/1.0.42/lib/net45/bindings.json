@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "folderPath": {
+          "isExpression": true
+        },
+        "name": {
+          "defaultValue": "RPA_0109_estornos",
+          "isExpression": false
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "folderPath": {
+          "isExpression": true
+        },
+        "name": {
+          "defaultValue": "RPA_0109_estornos",
+          "isExpression": false
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "folderPath": {
+          "isExpression": true
+        },
+        "name": {
+          "defaultValue": "RPA_0109_estornos",
+          "isExpression": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "m51UyanxLU-6DGsKydAhAg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/m51UyanxLU-6DGsKydAhAg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/S1L65cwbpE-fKS9iY1WBNg",
+  "Name": "SIS",
+  "Type": "Screen",
+  "Created": "2022-07-14T16:56:14.1173187Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T16:56:32.0158013Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

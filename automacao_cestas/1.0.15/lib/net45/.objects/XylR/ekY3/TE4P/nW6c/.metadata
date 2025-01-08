@@ -1,0 +1,13 @@
+﻿{
+  "Id": "nW6cIzPHsU6gtvK_c-rHww",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/nW6cIzPHsU6gtvK_c-rHww",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Confirmar Impressão(1)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T19:28:13.9778083Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T19:28:13.9778083Z"
+}

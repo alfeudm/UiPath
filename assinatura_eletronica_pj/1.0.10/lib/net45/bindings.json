@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "name": {
+          "defaultValue": "rpa_0109_portalass",
+          "isExpression": false
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "name": {
+          "defaultValue": "RPA_0109_estornos",
+          "isExpression": false
+        },
+        "folderPath": {
+          "isExpression": true
+        }
+      }
+    }
+  ]
+}

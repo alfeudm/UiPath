@@ -1,0 +1,14 @@
+﻿{
+  "Id": "MXcydpy7q0m9o8ZSRZ1z0w",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/MXcydpy7q0m9o8ZSRZ1z0w",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/C9ScFeXqjEKtM6LGcgBnGA",
+  "Name": "Automação Controle",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-12-16T01:28:44.0311985Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-16T01:28:44.0311985Z"
+}

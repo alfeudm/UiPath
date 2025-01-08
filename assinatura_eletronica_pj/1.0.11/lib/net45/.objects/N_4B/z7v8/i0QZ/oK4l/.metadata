@@ -1,0 +1,13 @@
+﻿{
+  "Id": "oK4li-dgokiaEY3GZ5hQxQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/oK4li-dgokiaEY3GZ5hQxQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/i0QZOgJLykiy4ZxyEGSI8g",
+  "Name": "Novo documento",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-10T22:10:14.3824556Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:14.3824556Z"
+}

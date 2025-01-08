@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Automacao_Cestas</id>
+    <version>1.0.14</version>
+    <title>Automacao_Cestas</title>
+    <authors>alfeu_souza</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>N/A</description>
+    <tags>VisualBasic VB UiPathStudioProcess UiPathObjects</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="UiPath.Database.Activities" version="[1.7.1]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.16.2]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.18.2]" />
+        <dependency id="UiPath.System.Activities" version="[22.10.4]" />
+        <dependency id="UiPath.UIAutomation.Activities" version="[22.10.5]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

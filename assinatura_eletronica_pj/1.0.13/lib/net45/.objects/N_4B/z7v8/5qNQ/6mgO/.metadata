@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6mgOlA1ymUyc8nE2lcPZRQ",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/6mgOlA1ymUyc8nE2lcPZRQ",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/5qNQIUJShk-zz-_qPCtPAg",
+  "Name": "Entrar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-10T22:10:13.6074399Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T22:10:13.6074399Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "w-tnw8qkzUuT_FTFP7o8RQ",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/w-tnw8qkzUuT_FTFP7o8RQ",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/LVE6XlLPEUKaVUcgQoO2hg",
+  "Name": "CANCELAR CONSULTA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-12T22:18:18.3622956Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-12T22:18:18.3622956Z"
+}

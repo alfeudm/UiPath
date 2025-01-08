@@ -1,0 +1,16 @@
+﻿{
+  "Name": "RELATÓRIO DE TITULOS DA CARTEIRA",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Es7Q2ZN5DEmoJorYHU_NQA",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/Es7Q2ZN5DEmoJorYHU_NQA",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "Created": "2024-04-20T14:39:10.6103008Z",
+  "Updated": "2024-04-20T14:40:09.1810115Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

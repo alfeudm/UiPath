@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6cnVtl9jMEivpsF6Y5tdCA",
+  "Reference": "IwX62HklR0Wx0NJbrlsbwg/6cnVtl9jMEivpsF6Y5tdCA",
+  "ParentRef": "IwX62HklR0Wx0NJbrlsbwg/chrLgOXpsUuBs-aiHGl8zg",
+  "Name": "aprovar com click",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-05-17T17:44:28.7427421Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-17T17:44:28.7427421Z"
+}

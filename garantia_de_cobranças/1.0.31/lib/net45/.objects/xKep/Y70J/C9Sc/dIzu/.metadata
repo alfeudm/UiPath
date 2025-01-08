@@ -1,0 +1,14 @@
+﻿{
+  "Id": "dIzuAHKlZEGkR5SIIt7f9g",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/dIzuAHKlZEGkR5SIIt7f9g",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/C9ScFeXqjEKtM6LGcgBnGA",
+  "Name": "grouping(1)",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-12-16T01:28:09.621976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-16T01:28:09.621976Z"
+}

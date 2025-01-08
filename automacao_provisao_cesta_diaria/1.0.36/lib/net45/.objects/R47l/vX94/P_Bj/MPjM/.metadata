@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'teoff-exe-2.1.6.0-win32…'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "MPjMky-do0Gi5Fo27LhzBw",
+  "Reference": "M_Fs_HA7-0WiWSSZhxLr5Q/MPjMky-do0Gi5Fo27LhzBw",
+  "ParentRef": "M_Fs_HA7-0WiWSSZhxLr5Q/P_BjjPqYGEeKEJYMdGLr4w",
+  "Created": "2024-06-18T15:32:24.8933612Z",
+  "Updated": "2024-06-18T15:32:24.8933612Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

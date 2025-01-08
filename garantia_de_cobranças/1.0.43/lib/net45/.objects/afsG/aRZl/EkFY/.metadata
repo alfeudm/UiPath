@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SIAT_HOME",
+  "Type": "Screen",
+  "Id": "EkFY64CkyEmpbyL74vqUrg",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/EkFY64CkyEmpbyL74vqUrg",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/aRZl8RfzckCHbqBRxa-S5A",
+  "Created": "2024-04-20T14:27:33.3039204Z",
+  "Updated": "2024-04-20T14:27:33.3039204Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

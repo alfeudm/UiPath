@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LbAZYdF8sEWicoTjSo87cA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="199, 320, 65, 20" DesignTimeScaleFactor="1.5" FriendlyName="'cmd.exe C:\WINDOWS\syst…'" Guid="b84c8113-a8a4-4e12-8fb2-a8057c416be7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEEAAAAUCAYAAADStFABAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADVSURBVFhH7ZdRCsMwDEN7gNxn59ml87HLZGRgEMKOO7u0Hd7Hg0gKiStKodv2eI3yqGY1VLMarbVRHbeEZ+8ftOwuyIzROZcl4OHRC84iM6NZAh+aueQMMvOlShBPfGutafS8DLW1Z0+OGRIuIasZLUdP1qy1vXs04pbAcB7V6CFWjprXK81Ijlz2Jnja8qzM0ysO+yZwntWWZ2XfaiRVAqLl4onPe1Y5ZuIxnPNezNFnzBI8+GDvojsTLmEiD/7LBUz+P1AT1ayGalZDNavBH7d69PEGfK1f9TsmZ04AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='cmd.exe' cls='ConsoleWindowClass' title='C:\WINDOWS\system32\cmd.exe' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="47b28a693c9b7ca19335e526adfdeb29.png" xmlns="">0ma8CYhXMAk6y1mZCzhbtuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

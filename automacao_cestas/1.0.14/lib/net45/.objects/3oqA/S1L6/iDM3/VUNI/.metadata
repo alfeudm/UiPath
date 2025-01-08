@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VUNIdIGDUEmtF21R--xaTg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/VUNIdIGDUEmtF21R--xaTg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/iDM3VV5uAkC03zJoDGFG5w",
+  "Name": "Download",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-12T17:34:56.2045666Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-12T17:35:47.0704774Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

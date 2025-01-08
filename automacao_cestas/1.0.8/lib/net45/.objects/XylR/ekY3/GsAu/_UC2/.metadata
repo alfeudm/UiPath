@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_UC2zlAC70SdB3A-4dTpog",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/_UC2zlAC70SdB3A-4dTpog",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/GsAuiX8prkW7CuvnoO5wTQ",
+  "Name": "Element 'acclient.exe Application'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-14T13:51:08.1723022Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T13:51:08.1723022Z"
+}

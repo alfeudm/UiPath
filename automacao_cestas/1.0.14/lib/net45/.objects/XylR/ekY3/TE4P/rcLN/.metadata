@@ -1,0 +1,13 @@
+﻿{
+  "Id": "rcLNsnbAuUeTu_wOZPS7LQ",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/rcLNsnbAuUeTu_wOZPS7LQ",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "Arquivo já existe(1)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T19:27:04.9671399Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T19:27:04.9671399Z"
+}

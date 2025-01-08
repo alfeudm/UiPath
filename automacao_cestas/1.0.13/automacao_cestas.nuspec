@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Automacao_Cestas</id>
+    <version>1.0.13</version>
+    <title>Automacao_Cestas</title>
+    <authors>alfeu_souza</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>N/A</description>
+    <tags>VisualBasic VB UiPathStudioProcess UiPathObjects</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="System.Linq" version="[4.3.0]" />
+        <dependency id="System.Linq.Async" version="[6.0.1]" />
+        <dependency id="System.Linq.Expressions" version="[4.3.0]" />
+        <dependency id="System.Linq.Parallel" version="[4.3.0]" />
+        <dependency id="System.Linq.Queryable" version="[4.3.0]" />
+        <dependency id="System.Net.Http" version="[4.3.4]" />
+        <dependency id="System.Threading.Tasks.Extensions" version="[4.5.4]" />
+        <dependency id="UiPath.Database.Activities" version="[1.6.1]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.12.3]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.15.2]" />
+        <dependency id="UiPath.PDF.Activities" version="[3.6.0]" />
+        <dependency id="UiPath.Python.Activities" version="[1.6.0]" />
+        <dependency id="UiPath.System.Activities" version="[22.4.1]" />
+        <dependency id="UiPath.UIAutomation.Activities" version="[22.4.6]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

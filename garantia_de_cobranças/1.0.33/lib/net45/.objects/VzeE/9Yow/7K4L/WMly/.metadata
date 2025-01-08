@@ -1,0 +1,16 @@
+﻿{
+  "Id": "WMlyfRXgq0W4coOBApbwcg",
+  "Reference": "6I38Hn9keUKC5KnCFXNQMQ/WMlyfRXgq0W4coOBApbwcg",
+  "ParentRef": "6I38Hn9keUKC5KnCFXNQMQ/7K4LuoACtUCU2krpauQBxw",
+  "Name": "Highlight ChequeEspecial",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-10-11T13:58:01.3921026Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-11T13:58:01.3921026Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

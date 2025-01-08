@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Processando",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "HGJe5KIdsUKi5ZcJtpDt7w",
+  "Reference": "M_Fs_HA7-0WiWSSZhxLr5Q/HGJe5KIdsUKi5ZcJtpDt7w",
+  "ParentRef": "M_Fs_HA7-0WiWSSZhxLr5Q/P_BjjPqYGEeKEJYMdGLr4w",
+  "Created": "2024-06-18T15:39:39.5373773Z",
+  "Updated": "2024-06-18T15:39:39.5373773Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

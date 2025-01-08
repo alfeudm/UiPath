@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Rlzyg6l1a0GTrVH47dpNEA",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/Rlzyg6l1a0GTrVH47dpNEA",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/PAzS9xHjMUicE4dRyKmevA",
+  "Name": "Tipo",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-07-14T17:03:03.6922115Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T17:03:03.6922115Z"
+}

@@ -1,0 +1,241 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="OpenData" sap:VirtualizedContainerService.HintSize="390,93" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="64">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.Database</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>Newtonsoft.Json.Linq</x:String>
+      <x:String>Newtonsoft.Json</x:String>
+      <x:String>System.Dynamic</x:String>
+      <x:String>System.Collections.Specialized</x:String>
+      <x:String>UiPath.Database.Activities</x:String>
+      <x:String>UiPath.CSV</x:String>
+      <x:String>UiPath.CSV.Activities</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.Excel.Activities.Business</x:String>
+      <x:String>UiPath.Excel.Model</x:String>
+      <x:String>UiPath.Activities.System.Workflow.Business</x:String>
+      <x:String>UiPath.Core.Activities.DateModifications</x:String>
+      <x:String>UiPath.Shared.Activities.Business</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.Platform.ResourceHandling</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="64">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>UiPath.Database</AssemblyReference>
+      <AssemblyReference>UiPath.Web</AssemblyReference>
+      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Python</AssemblyReference>
+      <AssemblyReference>UiPath.Python.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Database.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>Newtonsoft.Json</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.PDF.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>WindowsCommandPromptActivities</AssemblyReference>
+      <AssemblyReference>JsonDataConversion</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections.Immutable</AssemblyReference>
+      <AssemblyReference>LinqKit.Core</AssemblyReference>
+      <AssemblyReference>System.Linq.Async.Queryable</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="OpenData" sap:VirtualizedContainerService.HintSize="200,68" sap2010:WorkflowViewState.IdRef="Sequence_36">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsPinned">False</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard WebDriverMode="{x:Null}" AttachMode="ByInstance" CloseMode="Never" DisplayName="OpenData" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="NApplicationCard_5" InteractionMode="Simulate" OpenMode="IfNotOpen" ScopeGuid="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="596,1654.66666666667" sap2010:WorkflowViewState.IdRef="Sequence_37">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NCheckState Exists="{x:Null}" DisplayName="Check App State 'Nome de usuário'" sap:VirtualizedContainerService.HintSize="554,304" sap2010:WorkflowViewState.IdRef="NCheckState_7" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Version="V1">
+              <uix:NCheckState.IfExists>
+                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="250,85.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_38">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </Sequence>
+              </uix:NCheckState.IfExists>
+              <uix:NCheckState.IfNotExists>
+                <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="250,85.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_39">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </Sequence>
+              </uix:NCheckState.IfNotExists>
+              <uix:NCheckState.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/user/login?" ContentHash="GVVt_JEoTkeNlfs29ZqUqQ" DesignTimeRectangle="733, 505, 401, 36" ElementType="InputBox" FriendlyName="'Nome de usuário'" FullSelectorArgument="&lt;webctrl id='field-login' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='field-login' tag='INPUT' type='text' class='' aaname='Nome de usuário' /&gt;" Guid="86cadffe-eb3e-4854-8e79-dab9808de35e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAZUAAAAoCAYAAAA2eGckAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAALASURBVHhe7dlLamJBGIbh3kQvsbfQK+ldZHSwRRAEUVHUgBAMKiGSO4lGY0i8kcvXVKEhDT0RbOrPz/vANzgTh/WeOn4Tkjg+PtbBwcHm6d9+/sr0/cdvnZ6e6uzsTBcXF7q+vtbt7a3u7+81m8309PSk5+dnzedzLZdLrddrvby8xL2+vurt7S3u/f1986sA8P8QlUSICgCPiEoiRAWAR0QlkV2ikmWZcrmc8vm8CoWCisWiSqWSyuWyKpWKqtWqarWa6vW6Go2Gms1mXKvV+li73dbh4SFjjO1l/X5fw+Ewvth+RlQS2SUqnU5HR0dH6na76vV6GgwG8fZyfn6uq6ureHu5ubmJN5i7uzuNx+O4cJuZTCZx0+lUDw8PjDG2l4UzJZw/4UwKX0u2iEoiu0QlvBGcnJx8fAa7vLyMERmNRn8F4/HxMb41hE9hYYvFIn4SC1utVvHTGGOM7WPhTAnnTAhLuLFsEZVE+E8FwFcWzpRwtoRzJ7z4bhGVRIgKAA/CORP+Y9kiKokQFQAehPOFqBhAVAB4QFSMICoAPCAqRhAVAB4QFSOICgAPiIoRRAWAB0TFCKICwAOiYgRRAeABUTGCqADwgKgYQVQAeEBUjCAqADwgKkYQFQAeEBUjiAoAD4iKEUQFgAdExQiiAsADomIEUQHgAVExgqgA8ICoGEFUAHhAVIwgKgA8ICpGEBUAHhAVI4gKAA+IihFEBYAHRMUIogLAA6JiBFEB4AFRMYKoAPCAqBhBVAB4QFSMICoAPCAqRhAVAB6Ec6bf72+eiEoyRAWAB6PRSMPhcPNEVJIhKgC+snCmjMdj9Xq9eAZtEZVEdolKlmXK5XLK5/MqFAoqFosqlUoql8uqVCqqVquq1Wqq1+tqNBpqNptxrVbrY+12O373ZIyxfWwwGMQbyuegBEQlEW4qAPyR/gBBL0l5H1vRtgAAAABJRU5ErkJggg==" InformativeScreenshot="adf08d1421b3828b5334fd5797127ca3.png" IsResponsive="True" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/1_T6OdDkSkixqVZGarvzWA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="577, 505, 144, 30" ElementType="Text" FriendlyName="'Nome de usuário'" FullSelectorArgument="&lt;webctrl parentid='content' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='content' tag='LABEL' type='' class='control-label' aaname='Nome de usuário' check:innerText='Nome de usuário' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAJQAAAAiCAYAAAC5r/C8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAABpSURBVHhe7dIxAQAADMOg+TfdmcgJGrhBSChSQpESipRQpIQiJRQpoUgJRUooUkKREoqUUKSEIiUUKaFICUVKKFJCkRKKlFCkhCIlFCmhSAlFSihSQpESipRQpIQiJRQpoUgJRUooQtsDg8tV8ziunSwAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NCheckState.Target>
+            </uix:NCheckState>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="None" DisplayName="Type Into 'Nome de usuário'" EmptyFieldMode="None" sap:VirtualizedContainerService.HintSize="554,218.666666666667" sap2010:WorkflowViewState.IdRef="NTypeInto_9" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Text="alfeu_souza" Version="V1">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/user/login?" ContentHash="GVVt_JEoTkeNlfs29ZqUqQ" DesignTimeRectangle="733, 505, 401, 36" ElementType="InputBox" FriendlyName="'Nome de usuário'" FullSelectorArgument="&lt;webctrl id='field-login' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='field-login' tag='INPUT' type='text' class='' aaname='Nome de usuário' /&gt;" Guid="86cadffe-eb3e-4854-8e79-dab9808de35e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAZUAAAAoCAYAAAA2eGckAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAALASURBVHhe7dlLamJBGIbh3kQvsbfQK+ldZHSwRRAEUVHUgBAMKiGSO4lGY0i8kcvXVKEhDT0RbOrPz/vANzgTh/WeOn4Tkjg+PtbBwcHm6d9+/sr0/cdvnZ6e6uzsTBcXF7q+vtbt7a3u7+81m8309PSk5+dnzedzLZdLrddrvby8xL2+vurt7S3u/f1986sA8P8QlUSICgCPiEoiRAWAR0QlkV2ikmWZcrmc8vm8CoWCisWiSqWSyuWyKpWKqtWqarWa6vW6Go2Gms1mXKvV+li73dbh4SFjjO1l/X5fw+Ewvth+RlQS2SUqnU5HR0dH6na76vV6GgwG8fZyfn6uq6ureHu5ubmJN5i7uzuNx+O4cJuZTCZx0+lUDw8PjDG2l4UzJZw/4UwKX0u2iEoiu0QlvBGcnJx8fAa7vLyMERmNRn8F4/HxMb41hE9hYYvFIn4SC1utVvHTGGOM7WPhTAnnTAhLuLFsEZVE+E8FwFcWzpRwtoRzJ7z4bhGVRIgKAA/CORP+Y9kiKokQFQAehPOFqBhAVAB4QFSMICoAPCAqRhAVAB4QFSOICgAPiIoRRAWAB0TFCKICwAOiYgRRAeABUTGCqADwgKgYQVQAeEBUjCAqADwgKkYQFQAeEBUjiAoAD4iKEUQFgAdExQiiAsADomIEUQHgAVExgqgA8ICoGEFUAHhAVIwgKgA8ICpGEBUAHhAVI4gKAA+IihFEBYAHRMUIogLAA6JiBFEB4AFRMYKoAPCAqBhBVAB4QFSMICoAPCAqRhAVAB6Ec6bf72+eiEoyRAWAB6PRSMPhcPNEVJIhKgC+snCmjMdj9Xq9eAZtEZVEdolKlmXK5XLK5/MqFAoqFosqlUoql8uqVCqqVquq1Wqq1+tqNBpqNptxrVbrY+12O373ZIyxfWwwGMQbyuegBEQlEW4qAPyR/gBBL0l5H1vRtgAAAABJRU5ErkJggg==" InformativeScreenshot="adf08d1421b3828b5334fd5797127ca3.png" IsResponsive="True" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/1_T6OdDkSkixqVZGarvzWA" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="577, 505, 144, 30" ElementType="Text" FriendlyName="'Nome de usuário'" FullSelectorArgument="&lt;webctrl parentid='content' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='content' tag='LABEL' type='' class='control-label' aaname='Nome de usuário' check:innerText='Nome de usuário' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAJQAAAAiCAYAAAC5r/C8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAABpSURBVHhe7dIxAQAADMOg+TfdmcgJGrhBSChSQpESipRQpIQiJRQpoUgJRUooUkKREoqUUKSEIiUUKaFICUVKKFJCkRKKlFCkhCIlFCmhSAlFSihSQpESipRQpIQiJRQpoUgJRUooQtsDg8tV8ziunSwAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="None" DisplayName="Type Into 'Senha'" EmptyFieldMode="None" sap:VirtualizedContainerService.HintSize="554,218.666666666667" sap2010:WorkflowViewState.IdRef="NTypeInto_10" IsPassword="True" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Text="BATman2006dm@@" Version="V1">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/user/login?" ContentHash="Urup_qIDvUKIc6RKPPVGog" DesignTimeRectangle="733, 565, 401, 36" ElementType="InputBoxPassword" FriendlyName="'Senha'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='' aaname='Senha' /&gt;" Guid="9fd9db89-5135-44d2-ad24-1b09b470cde3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAZUAAAAoCAYAAAA2eGckAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAALASURBVHhe7dlLamJBGIbh3kQvsbfQK+ldZHSwRRAEUVHUgBAMKiGSO4lGY0i8kcvXVKEhDT0RbOrPz/vANzgTh/WeOn4Tkjg+PtbBwcHm6d9+/sr0/cdvnZ6e6uzsTBcXF7q+vtbt7a3u7+81m8309PSk5+dnzedzLZdLrddrvby8xL2+vurt7S3u/f1986sA8P8QlUSICgCPiEoiRAWAR0QlkV2ikmWZcrmc8vm8CoWCisWiSqWSyuWyKpWKqtWqarWa6vW6Go2Gms1mXKvV+li73dbh4SFjjO1l/X5fw+Ewvth+RlQS2SUqnU5HR0dH6na76vV6GgwG8fZyfn6uq6ureHu5ubmJN5i7uzuNx+O4cJuZTCZx0+lUDw8PjDG2l4UzJZw/4UwKX0u2iEoiu0QlvBGcnJx8fAa7vLyMERmNRn8F4/HxMb41hE9hYYvFIn4SC1utVvHTGGOM7WPhTAnnTAhLuLFsEZVE+E8FwFcWzpRwtoRzJ7z4bhGVRIgKAA/CORP+Y9kiKokQFQAehPOFqBhAVAB4QFSMICoAPCAqRhAVAB4QFSOICgAPiIoRRAWAB0TFCKICwAOiYgRRAeABUTGCqADwgKgYQVQAeEBUjCAqADwgKkYQFQAeEBUjiAoAD4iKEUQFgAdExQiiAsADomIEUQHgAVExgqgA8ICoGEFUAHhAVIwgKgA8ICpGEBUAHhAVI4gKAA+IihFEBYAHRMUIogLAA6JiBFEB4AFRMYKoAPCAqBhBVAB4QFSMICoAPCAqRhAVAB6Ec6bf72+eiEoyRAWAB6PRSMPhcPNEVJIhKgC+snCmjMdj9Xq9eAZtEZVEdolKlmXK5XLK5/MqFAoqFosqlUoql8uqVCqqVquq1Wqq1+tqNBpqNptxrVbrY+12O373ZIyxfWwwGMQbyuegBEQlEW4qAPyR/gBBL0l5H1vRtgAAAABJRU5ErkJggg==" InformativeScreenshot="ac59650e78d107355d341e1b84dab68d.png" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/Fv5v_4oVrkKepacE3_PeMQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="577, 565, 144, 30" ElementType="Text" FriendlyName="'Senha'" FullSelectorArgument="&lt;webctrl aaname='Senha' parentid='content' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Senha' parentid='content' tag='LABEL' type='' class='control-label' check:innerText='Senha' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAJQAAAAiCAYAAAC5r/C8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAABpSURBVHhe7dIxAQAADMOg+TfdmcgJGrhBSChSQpESipRQpIQiJRQpoUgJRUooUkKREoqUUKSEIiUUKaFICUVKKFJCkRKKlFCkhCIlFCmhSAlFSihSQpESipRQpIQiJRQpoUgJRUooQtsDg8tV8ziunSwAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NClick ClickType="Single" DisplayName="Click 'Acessar'" sap:VirtualizedContainerService.HintSize="554,157.333333333333" sap2010:WorkflowViewState.IdRef="NClick_11" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Version="V1">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/user/login?" ContentHash="_B8spnS-q0SDdaX6WUz11Q" DesignTimeRectangle="1589, 709, 97, 36" ElementType="Button" FriendlyName="'Acessar'" FullSelectorArgument="&lt;webctrl parentid='content' tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='content' tag='BUTTON' type='submit' class='btn btn-primary' aaname='Acessar' check:innerText='Acessar' /&gt;" Guid="402071c3-25c7-4603-8c0f-59888f87641c" ImageBase64="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" InformativeScreenshot="c0f47a162dc74f8dc20d81e2f62dfa6e.png" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/2w7Ye0RsoUqPLu8jkUJj6g" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector, Image" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="547, 685, 1168, 60" FriendlyName="'Acessar'" FullSelectorArgument="&lt;webctrl aaname='                  ' parentid='content' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  ' parentid='content' tag='DIV' type='' class='form-actions' check:innerText='Acessar' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAABJQAAABACAYAAABMSi1vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAtJSURBVHhe7d37k1b1fQfw/hP9GyAFZHe5Q1qVyy5Xq1bTNE0yaaemnXbazrRT22n7Q1ODmUS8VSsFNARQiGIREBTwEqdam5UV0GDHILgLSEqyTMPuqtzUT5/znHOe52EXGi49S+eb12vmM9/9nvM933Oe7/PL2fecs/srAVCRd955JzZu3Fj0LuzOh7fEr96xLQ4dOhR9fX1x5MiROHbsWBw/fjxOnDgRJ0+ejKGhofjwww/jo48+ilOnTsWZM2fi3Llz9frkk0/i008/rddnn31WzAoAAEBVenp6QqAEVEagBAAAkB6BElApgRIAAEB6BEpApS4nUHr99deju7s7du/eHXv27Il9+/bF/v374913340DBw7Ee++9FwcPHoz333+/HjwdPny4XlkAdfTo0Xp98MEH9TBKKaWUUkoppVQ1lREoAZXyhBIAAEB6BEpApQRKAAAA6REoAZUSKAEAAKRHoARUSqAEAACQHoESUCmBEgAAQHoESkClBEoAAADpESgBlRIoAQAApEegBFRKoAQAAJAegRJQKYESAABAegRKQKUESgAAAOkRKAGVEigBAACkR6AEVEqgBAAAkB6BElApgRIAAEB6BEpApQRKAAAA6REoAZUSKAEAAKRHoARUSqAEAACQHoESUCmBEgAAQHoESkClBEoAAADpESgBlRIoAQAApEegBFRKoAQAAJAegRJQKYESAABAegRKQKUESgAAAOkRKAGVEigBAACkR6AEVEqgBAAAacvuwTe+uy1ue+brMX3tkmhb3akqqGm1tf3C5j+qr/X/h997BEpApQRKAACQrtPnzsQ/9jwYc3f+bnzxP/40vvbmnfF7e/46fn/P39Qqb/X/b/pf6/mr+OIP/yzm7PhS3FVb87OfnCu+hWtDoARUSqAEAABpyu69dx3+t5j93O/El3f/RSx5/Q9i3mtfjbmvfiXm1Grua3lbVmN72dp/Wfs7a2u7uLbGX939l/U1f/XYG9f09x+BElApgRIAAKQpu/++4wd3xs2vfj1mvXJ7zPzBbbXKW/3q+rNqdetrfxh//Mrf1b+Da0WgBFRKoAQAAGnK7r+v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" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NCheckState Exists="{x:Null}" DisplayName="Check App State 'Acessar'" sap:VirtualizedContainerService.HintSize="554,304" sap2010:WorkflowViewState.IdRef="NCheckState_8" Mode="WaitDisappear" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Version="V1">
+              <uix:NCheckState.IfExists>
+                <Sequence DisplayName="Target disappears" sap:VirtualizedContainerService.HintSize="250,85.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_40">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </Sequence>
+              </uix:NCheckState.IfExists>
+              <uix:NCheckState.IfNotExists>
+                <Sequence DisplayName="Target does not disappear" sap:VirtualizedContainerService.HintSize="250,85.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_41">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </Sequence>
+              </uix:NCheckState.IfNotExists>
+              <uix:NCheckState.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/user/login?" ContentHash="_B8spnS-q0SDdaX6WUz11Q" DesignTimeRectangle="1589, 709, 97, 36" ElementType="Button" FriendlyName="'Acessar'" FullSelectorArgument="&lt;webctrl parentid='content' tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='content' tag='BUTTON' type='submit' class='btn btn-primary' aaname='Acessar' check:innerText='Acessar' /&gt;" Guid="402071c3-25c7-4603-8c0f-59888f87641c" ImageBase64="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" InformativeScreenshot="c0f47a162dc74f8dc20d81e2f62dfa6e.png" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/2w7Ye0RsoUqPLu8jkUJj6g" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector, Image" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="547, 685, 1168, 60" FriendlyName="'Acessar'" FullSelectorArgument="&lt;webctrl aaname='                  ' parentid='content' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  ' parentid='content' tag='DIV' type='' class='form-actions' check:innerText='Acessar' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAABJQAAABACAYAAABMSi1vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAtJSURBVHhe7d37k1b1fQfw/hP9GyAFZHe5Q1qVyy5Xq1bTNE0yaaemnXbazrRT22n7Q1ODmUS8VSsFNARQiGIREBTwEqdam5UV0GDHILgLSEqyTMPuqtzUT5/znHOe52EXGi49S+eb12vmM9/9nvM933Oe7/PL2fecs/srAVCRd955JzZu3Fj0LuzOh7fEr96xLQ4dOhR9fX1x5MiROHbsWBw/fjxOnDgRJ0+ejKGhofjwww/jo48+ilOnTsWZM2fi3Llz9frkk0/i008/rddnn31WzAoAAEBVenp6QqAEVEagBAAAkB6BElApgRIAAEB6BEpApS4nUHr99deju7s7du/eHXv27Il9+/bF/v374913340DBw7Ee++9FwcPHoz333+/HjwdPny4XlkAdfTo0Xp98MEH9TBKKaWUUkoppVQ1lREoAZXyhBIAAEB6BEpApQRKAAAA6REoAZUSKAEAAKRHoARUSqAEAACQHoESUCmBEgAAQHoESkClBEoAAADpESgBlRIoAQAApEegBFRKoAQAAJAegRJQKYESAABAegRKQKUESgAAAOkRKAGVEigBAACkR6AEVEqgBAAAkB6BElApgRIAAEB6BEpApQRKAAAA6REoAZUSKAEAAKRHoARUSqAEAACQHoESUCmBEgAAQHoESkClBEoAAADpESgBlRIoAQAApEegBFRKoAQAAJAegRJQKYESAABAegRKQKUESgAAAOkRKAGVEigBAACkR6AEVEqgBAAAacvuwTe+uy1ue+brMX3tkmhb3akqqGm1tf3C5j+qr/X/h997BEpApQRKAACQrtPnzsQ/9jwYc3f+bnzxP/40vvbmnfF7e/46fn/P39Qqb/X/b/pf6/mr+OIP/yzm7PhS3FVb87OfnCu+hWtDoARUSqAEAABpyu69dx3+t5j93O/El3f/RSx5/Q9i3mtfjbmvfiXm1Grua3lbVmN72dp/Wfs7a2u7uLbGX939l/U1f/XYG9f09x+BElApgRIAAKQpu/++4wd3xs2vfj1mvXJ7zPzBbbXKW/3q+rNqdetrfxh//Mrf1b+Da0WgBFRKoAQAAGnK7r+v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" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NCheckState.Target>
+            </uix:NCheckState>
+            <uix:NClick ClickType="Single" DisplayName="Click 'Conjuntos de dados'" sap:VirtualizedContainerService.HintSize="554,157.333333333333" sap2010:WorkflowViewState.IdRef="NClick_12" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="bcc37c92-acb1-4c5e-8435-ac3a42789bc9" Version="V1">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://opendata.sicredi.net/dashboard/" ContentHash="iOEaamYE3Eeywq-znyAwyw" DesignTimeRectangle="712, 280, 175, 35" ElementType="Text" FriendlyName="'Conjuntos de dados'" FullSelectorArgument="&lt;webctrl aaname='Conjuntos de dados' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Conjuntos de dados' tag='A' type='' class='' check:innerText='Conjuntos de dados' /&gt;" Guid="fffdbf2f-e9c2-4577-86c5-28cc48fb0da4" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAALMAAAAnCAYAAABE43mmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAO8SURBVHhe7Zy/bhQxEMZ5grxJ3oFcckJ0QbT3ApGg4o+EEIqoU4J0ggJR5gWCRBnRIQSIVFEEEh0gQOkQNGbt9Xhn7Lnb28vdYi/fJ/0Kr9fj8fhb7yXFXjIQNBDBzNBgBDNDg5Fq5jc/Xprnnx6YhyfXza23lwHIAutH60vrT03CzD9/fzFPzm6rgQDICetT61cuYeZHpzfUgQDkyOPTm965tYKZX39/oQ4AIGesb0nBzE/P7qg3A5Az1rekYOb9D9fUmwHIGetbUjCzdiMAJUCCmUHxkGBmUDwkmBkUDwlmBsVDgplB8ZBgZlA8JJgZFA8JZgbFQ+rdzLsHV8zGfsPmoX7fsuwdjs3GwcjsKX3d2TLb+2Oze6z1rZ7V5n7xeKvOZ12Q+jPz8chsJua1ZqlMPd1i13ICZoaZFeyJrJ7CzuSRYY522Okt+1yBpyNxwvO4YgOU2JMpe3hc/47ZtWNovrB5/kHzbB9RDHk9XpOLH/p3zIT1pfBYY7M9Tc0j3mStxmqJ5w+UEC+ue9d8okPI1Z6N7+sQIPVjZs2ws3BGZvdGbSpYMJfWTxuwkJn5ptSb2RjUtvl4rb9pi7mVtiSKRbmw++MDQOSe0BLPt5uH0hszzLdYPnx+0Xb7wB7euL1GSP2YucPC4g208E1MDVJvAm1SdzPP6XexZzwoBFvbfPNGKDUR421/EkvmI2iLp5DM15ZPvIe8flp/T5AyM7M0JuGKmoGZZZ/HxaC11bks8ppN11Fh6+Svuf4Qi6PHbYvX3MtzrODzteWjxmrycSe1jxvv4TohZfYzQxqTcIUswswNzcbqD/Fy5plNWzxuYnrz8THL5SPrQ7g6ubkW2fOLQ/r3fwBGZiz5Z0a4FpC5CZRxIv7cuAqLxItyb5uvNR+lfpzZe75aSL2ZuV54vLh6s0WRXdFYgaJ2aqg5ZvZ9YU6fw7JmTuJF7SQ3zQAMsdmUGxvvTveQS8VF4sVjXTudr0s+oh3HV2q7Lkj9mdlRb379CqppjMGgQjtkQbqZuYLHqq5PbP/CZvbtamyTp1xDnL/b4NDftpk8lv8XobK2Jt5sI9fMj0drcdjrrjbpwzprvEWsjz9oFSJ+hfpGWgOkns28fpyZoyKDYUManJnjkxUMH9KAzEyvyH5+p4F8IA3uZAb/H6RgZnw3A5SI+t0MfNEIlIj6RaOT81fqzQDkjPUtKZjZCqczKIlnH+9759YSZv7667O5+26sDgQgJ+69v2rO/3zzzq0lzEzCl/NBjnT6cj4ElStj/gKpqWeOc4iRZQAAAABJRU5ErkJggg==" InformativeScreenshot="c06604d180ca0da2da3caf745b3564b6.png" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/9bAHFVQHw0S2GCQZdlq7Ug" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Gerenciar - alfeu_souza - Usuários - Opendata Sicredi' /&gt;" SearchSteps="FuzzySelector, Image" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="534, 280, 175, 35" ElementType="Text" FriendlyName="'Conjuntos de dados'" FullSelectorArgument="&lt;webctrl aaname='Avisos' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Avisos' tag='A' type='' class='' check:innerText='Avisos' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAALMAAAAnCAYAAABE43mmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAKLSURBVHhe7Zy/bhNBEId5Ar9J3oHEtkIZRJsXiETHHwkhZFGnpIigiCj9AkGijOgQAkQqFIFEhUD861CqxXN3c5ndnbNBoti1v5/0FefZWzffjsfNXgmErEmQmaxNkJmsTVyZX31/Hp5+fBAent0It15fBSgC8VG8FD+9RDL/uPgcHp/fdjcCKAnxVHy1iWR+9P6m+yJAiYivNr3ML789c18AKBnxVtPL/OT8jrsYoGTEW00v8+zddXcxQMmIt5peZm8hQA1okBmqR4PMUD0aZIbq0SAzVI8GmaF6NMgM1aNBZqgeDTJD9WiQeQV7h7thNJuEfac2zHYYz3bD+MSrwf9Gg8zLOJmE0eEkjBdCb82dOhSBBpmXsH/USnwwny6k3gkHpiYdOxVc12ed+XQnbC2eRx3ZwZBD09enYe/U1tu9+vrRtqmBoEHmQUSiTqxGxliyXHCzPpI5ETt9bkQ2eyfP6aHxDtGmo0HmAVJZpetGXTEVvBlJdP0ymWOGOrx+F/KuRoPMA4hEkYBNx4z/CFrRLkcMIRa4ORiL53xM8EVv1us6O4Ikow60aJDZwwqUYLvkZfcWKe0YMtCNzb7tPn8hs2Ln7rS24WiQ2SEbKezntjvqqDG3I4YwIHOHHWFWjRkZzi/EpqNB5owlIjp/BEXGvFvaPfL9IoEbOZPZ2zynsi8VfUPRIHNCO98Od75GXiNTuz6VPxE4HVtSGaN6fFii8UJgbs7QIDNUjwaZoXo0yAzVo0FmqB5NLzP3ZkCNuPdmcKMR1Ih7o9HZrxfuYoCSEW81vcwSujPUxPGH+525bSKZv/z+FO6+mbovApTEvbfXws+Lr525bSKZNdycDyXyTzfnE1JvQvgDJ/gI+2Hig34AAAAASUVORK5CYII=" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="lc_C7kMEhEudbSywH1-K2A" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJJSURBVDhPjVJLaBNRFD0zJumYziRpqgsX0pUiKvhZuBHFD7hQEbWtEJJqaEttGhyMKLalbt35ga5aEBGV6kK6cFEXQkHQJFJDWqNtUuonUHDnZxVEfJ65eRRsVTxwmXvPu/e++84d/BEF+ziywc8ohT/hqf0VcWzQJ/+JuXALZpwvKIcUbvoUjuG65o8gb2fEX4E7/hjacEBHwGzEwgInOA+F0ygJVwrHUGTTuXCHxEso2LuRcxTSTD6LWY7cKvx9axNShkIXeQ+LkSQnUBi3FG4H1ghHwkI2lMN8ROFBg0KMyRkpeivnLjrQR27AtDAaGEA//TMoy5kgb/fJ7S/Z+QObDJs1dOIHCxXOGfXEDJ5zuo1IGOMyTTsOCS8o2Hv43gTftY0W1ax3s007SmvQ8Xo2VOjFVYnL0VZMOwnxf0Ma25l8jzaqmTpceHocFn8+Moh3FDMbvCuxII79HO+9COkp7/K1y+FiL3qNKq6YCpOrvW2MgKqvRQ/G+G4llqSljMsU0mLBCV1KHYwtshEvpx3f0Y0qRW8DnjV24gnX8iig8JBdJ6xJKejGYzYo0kxamZvYLPwKTDs23oSmOI6SVVaj9f328KY0FsVP46NMNuwfw0J0p3ATlilfQd4+KKushIYkjmOXaOGNPOILUP2tMvoQ7TUvmnFqvLRZcpeQc1xUmlrETyKBU0y+5VM7vjWnhDvJv+ECG2aDCq+cQeH+ijgu4doqTtSk+O9PaRbcUj9eNF7U0T9ww7+PmlRQDNZY8JP+On2yDMAvVHTFoUs88rkAAAAASUVORK5CYII=" InformativeScreenshot="d6c2fa1ad52f57eeeece87c6d71a5ad8.png" Reference="xwhBsMXCK0ythO4ZN0ZWiQ/7KPA2Os-pkqAS1dtN5jECw" Selector="&lt;html app='msedge.exe' title='Acessar - Opendata Sicredi' /&gt;" Url="https://opendata.sicredi.net/user/login?" />
+      </uix:NApplicationCard.TargetApp>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

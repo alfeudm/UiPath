@@ -1,0 +1,12 @@
+﻿{
+  "Id": "LVE6XlLPEUKaVUcgQoO2hg",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/LVE6XlLPEUKaVUcgQoO2hg",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/2p1UQBJ7WkK3jM7iIf9plw",
+  "Name": "SIAT - BAC",
+  "Type": "Screen",
+  "Created": "2023-02-12T19:20:11.320879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-12T19:20:11.320879Z"
+}

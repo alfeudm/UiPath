@@ -1,0 +1,14 @@
+﻿{
+  "Id": "W3yRsJpV-kWBQ3BFA6MDgg",
+  "Reference": "xwhBsMXCK0ythO4ZN0ZWiQ/W3yRsJpV-kWBQ3BFA6MDgg",
+  "ParentRef": "xwhBsMXCK0ythO4ZN0ZWiQ/TE4PxX8guEecAqKlp8qzVg",
+  "Name": "digite nome do arquivo",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-24T15:15:12.8289638Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-24T15:15:12.8289638Z"
+}

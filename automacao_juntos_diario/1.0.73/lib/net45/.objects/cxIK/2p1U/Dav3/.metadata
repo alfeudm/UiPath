@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Dav3OyCxK06G7jlG_hTqFw",
+  "Reference": "KjcEDbSiB0ub2COW8DqxKg/Dav3OyCxK06G7jlG_hTqFw",
+  "ParentRef": "KjcEDbSiB0ub2COW8DqxKg/2p1UQBJ7WkK3jM7iIf9plw",
+  "Name": "C:\\WINDOWS\\system32\\cmd.exe",
+  "Type": "Screen",
+  "Created": "2022-12-22T20:33:34.0027412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-22T20:33:34.0027412Z"
+}

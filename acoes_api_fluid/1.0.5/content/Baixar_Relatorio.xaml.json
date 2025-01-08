@@ -1,0 +1,53 @@
+{
+  "DisplayName": "Baixar_Relatorio",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "id_relatorio",
+      "DisplayName": "id_relatorio",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "data_ini",
+      "DisplayName": "data_ini",
+      "Category": null,
+      "Tooltip": "formato esperado YYYY-MM-DD as string",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "data_fim",
+      "DisplayName": "data_fim",
+      "Category": null,
+      "Tooltip": "formato esperado YYYY-MM-DD as string",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "caminho_arquivo",
+      "DisplayName": "caminho_arquivo",
+      "Category": null,
+      "Tooltip": "Retorna caminho onde o arquivo está salvo",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}
